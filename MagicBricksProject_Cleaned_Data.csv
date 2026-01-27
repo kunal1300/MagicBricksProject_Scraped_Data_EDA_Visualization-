@@ -694,17 +694,17 @@ Mumbai,2,Andheri,17000,550,Flat,Unfurnished,East,"Garden/Park, Main Road",2,3,Ba
 Mumbai,2,Powai,50000,650,Flat,Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
 Mumbai,2,Andheri,65000,650,Flat,Furnished,East,Main Road,2,2,Bachelors,Immediately
 Mumbai,3,Wadala,150000,1900,Flat,Semi-Furnished,East,"Pool, Main Road",3,3,Bachelors,Immediately
-Pune,2,Hinjawadi,23006,910,Flat,Semi-Furnished,East,"Pool, Garden/Park, Main Road",2,1,Bachelors,Immediately
+Pune,2,Hinjewadi,23006,910,Flat,Semi-Furnished,East,"Pool, Garden/Park, Main Road",2,1,Bachelors,Immediately
 Pune,2,Kharadi,25000,580,Flat,Furnished,East,Main Road,2,1,Family,Immediately
 Pune,3,Viman Nagar,70000,1000,Flat,Unfurnished,East,Garden/Park,3,1,Bachelors/Family,Immediately
 Pune,3,Kharadi,45000,1650,Flat,Semi-Furnished,East,Main Road,3,3,Family,From Feb '26
 Pune,2,Kharadi,36000,740,Flat,Unfurnished,East,"Garden/Park, Main Road",2,1,Family,Immediately
-Pune,2,Hinjawadi,22000,630,Flat,Unfurnished,East,"Garden/Park, Pool",2,1,Bachelors/Family,Immediately
-Pune,2,Hinjawadi,21000,800,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",2,2,Bachelors/Family,Immediately
+Pune,2,Hinjewadi,22000,630,Flat,Unfurnished,East,"Garden/Park, Pool",2,1,Bachelors/Family,Immediately
+Pune,2,Hinjewadi,21000,800,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",2,2,Bachelors/Family,Immediately
 Pune,2,Kharadi,45000,1000,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,1,Bachelors,Immediately
-Pune,2,Hinjawadi,28000,850,Flat,Furnished,West,"Garden/Park, Pool, Main Road",2,2,Bachelors/Family,Immediately
+Pune,2,Hinjewadi,28000,850,Flat,Furnished,West,"Garden/Park, Pool, Main Road",2,2,Bachelors/Family,Immediately
 Pune,2,Kharadi,27000,950,Flat,Semi-Furnished,East,Main Road,2,2,Family,Immediately
-Pune,1,Hinjawadi,25000,545,Flat,Unfurnished,East,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Pune,1,Hinjewadi,25000,545,Flat,Unfurnished,East,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
 Pune,3,Viman Nagar,160000,2000,Flat,Furnished,East,"Garden/Park, Pool",3,1,Bachelors/Family,Immediately
 Pune,3,Kalyani Nagar,70000,1540,Flat,Furnished,East,"Pool, Garden/Park, Main Road",3,2,Bachelors/Family,Immediately
 Pune,2,Hadapsar,25000,602,Flat,Semi-Furnished,North - East,"Pool, Garden/Park, Main Road",2,2,Bachelors,Immediately
@@ -721,7 +721,7 @@ Pune,2,Baner,45000,1150,Flat,Furnished,East,Pool,2,3,Family,Immediately
 Pune,2,Wagholi,31000,850,Flat,Furnished,East,"Garden/Park, Main Road",2,2,Bachelors/Family,Immediately
 Pune,3,Kalyani Nagar,60000,1400,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",3,2,Bachelors,Immediately
 Pune,3,Mundhwa,36500,1150,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors/Family,Immediately
-Pune,2,Hinjawadi,21000,650,Flat,Semi-Furnished,North - East,Main Road,2,1,Bachelors/Family,Immediately
+Pune,2,Hinjewadi,21000,650,Flat,Semi-Furnished,North - East,Main Road,2,1,Bachelors/Family,Immediately
 Pune,2,Kharadi,47000,1000,Flat,Semi-Furnished,North,Main Road,2,2,Bachelors,Immediately
 Pune,3,Kharadi,26000,982,Flat,Unfurnished,East,Main Road,3,2,Family,Immediately
 Pune,2,Pimpri,23800,800,Flat,Semi-Furnished,East,Garden/Park,2,2,Bachelors/Family,Immediately
@@ -764,7 +764,7 @@ Pune,3,Kharadi,85000,1591,Flat,Furnished,East,Garden/Park,3,1,Bachelors/Family,F
 Pune,3,Hinjewadi,30000,1150,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",3,2,Bachelors,Immediately
 Pune,2,Kharadi,33000,800,Flat,Furnished,East,"Pool, Garden/Park, Main Road",2,2,Bachelors/Family,Immediately
 Pune,3,Bibwewadi,30000,900,Flat,Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
-Pune,3,Hinjawadi,26000,950,Flat,Semi-Furnished,East,Garden/Park,2,2,Bachelors,Immediately
+Pune,3,Hinjewadi,26000,950,Flat,Semi-Furnished,East,Garden/Park,2,2,Bachelors,Immediately
 Pune,1,Kharadi,24000,450,Flat,Semi-Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
 Pune,3,Wagholi,35000,2000,Villa,Semi-Furnished,North,Garden/Park,3,1,Bachelors,Immediately
 Pune,2,Wakad,27000,800,Flat,Unfurnished,East,Garden/Park,2,2,Bachelors/Family,From Feb '26
@@ -781,8 +781,8 @@ Pune,2,Hadapsar,40000,900,Flat,Furnished,East,"Garden/Park, Pool, Main Road",2,1
 Pune,3,Mundhwa,55000,1560,Flat,Unfurnished,West,Garden/Park,3,2,Bachelors,Immediately
 Pune,3,Kharadi,99000,1750,Flat,Unfurnished,East,"Pool, Garden/Park",4,2,Bachelors,Immediately
 Pune,2,Kharadi,25000,1042,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
-Pune,3,Hinjawadi,29900,1200,Flat,Semi-Furnished,East,Garden/Park,3,3,Bachelors/Family,Immediately
-Pune,3,Hinjawadi,47000,1335,Flat,Unfurnished,East,"Pool, Garden/Park",3,2,Bachelors,Immediately
+Pune,3,Hinjewadi,29900,1200,Flat,Semi-Furnished,East,Garden/Park,3,3,Bachelors/Family,Immediately
+Pune,3,Hinjewadi,47000,1335,Flat,Unfurnished,East,"Pool, Garden/Park",3,2,Bachelors,Immediately
 Pune,1,Kharadi,26000,480,Flat,Unfurnished,East,Garden/Park,2,1,Bachelors/Family,Immediately
 Pune,3,T Nagar,40000,1070,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors/Family,From Feb '26
 Pune,3,Kharadi,75000,1750,Flat,Semi-Furnished,East,Garden/Park,3,2,Family,Immediately
@@ -798,7 +798,7 @@ Pune,1,Bavdhan,17000,450,Flat,Unfurnished,East,"Pool, Garden/Park",1,1,Bachelors
 Pune,2,Kharadi,24000,865,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors/Family,Immediately
 Pune,3,Viman Nagar,55000,1150,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",3,2,Family,Immediately
 Pune,3,Kharadi,25000,1260,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",3,1,Family,Immediately
-Pune,2,Hinjawadi,21000,650,Flat,Semi-Furnished,East,"Pool, Garden/Park, Main Road",2,2,Bachelors,Immediately
+Pune,2,Hinjewadi,21000,650,Flat,Semi-Furnished,East,"Pool, Garden/Park, Main Road",2,2,Bachelors,Immediately
 Pune,2,Mundhwa,28000,770,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,2,Bachelors/Family,Immediately
 Pune,3,Balewadi,50000,1350,Flat,Unfurnished,East,Garden/Park,3,1,Bachelors,Immediately
 Pune,2,Kharadi,48000,1050,Flat,Semi-Furnished,East,Garden/Park,2,2,Bachelors/Family,Immediately
@@ -823,7 +823,7 @@ Pune,2,Kharadi,22000,850,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road"
 Pune,2,Kharadi,58000,1050,Flat,Furnished,East,"Garden/Park, Pool, Main Road",2,1,Bachelors/Family,Immediately
 Pune,1,Kharadi,20000,464,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",1,1,Bachelors,From Feb '26
 Pune,3,NIBM Road,51000,1550,Flat,Semi-Furnished,East,"Pool, Garden/Park, Main Road",3,3,Bachelors,Immediately
-Pune,2,Hinjawadi,23000,800,Flat,Unfurnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Pune,2,Hinjewadi,23000,800,Flat,Unfurnished,East,Main Road,2,2,Bachelors/Family,Immediately
 Pune,3,Wakad,42000,1050,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",2,2,Family,Immediately
 Pune,3,Kharadi,31000,1289,Flat,Semi-Furnished,West,"Garden/Park, Main Road",2,2,Family,Immediately
 Pune,3,Kharadi,30000,960,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",3,2,Bachelors/Family,Immediately
@@ -843,7 +843,7 @@ Pune,3,Kharadi,58000,1155,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road
 Pune,1,Kharadi,21000,504,Flat,Semi-Furnished,East,"Main Road, Garden/Park",1,2,Bachelors,From Feb '26
 Pune,2,Kharadi,33000,850,Flat,Unfurnished,East,Garden/Park,2,1,Bachelors/Family,Immediately
 Pune,2,Hinjewadi,20050,400,Flat,Furnished,East,"Garden/Park, Pool, Main Road",1,1,Bachelors/Family,Immediately
-Pune,3,Hinjawadi,42000,1200,Flat,Furnished,East,Main Road,3,2,Bachelors,Immediately
+Pune,3,Hinjewadi,42000,1200,Flat,Furnished,East,Main Road,3,2,Bachelors,Immediately
 Pune,2,Kharadi,30000,698,Flat,Furnished,East,Main Road,2,1,Bachelors,Immediately
 Pune,2,Hadapsar,25000,971,Flat,Furnished,East,Main Road,2,1,Family,Immediately
 Pune,3,Pimpri,40000,964,Flat,Unfurnished,East,Main Road,3,3,Bachelors/Family,Immediately
@@ -886,7 +886,7 @@ Pune,2,Kharadi,23000,525,Flat,Semi-Furnished,East,Garden/Park,2,2,Bachelors,Imme
 Pune,4,Kharadi,110000,2200,Flat,Furnished,East,Garden/Park,4,2,Family,From Mar '26
 Pune,2,Bavdhan,23500,725,Flat,Unfurnished,East,Main Road,2,1,Bachelors,Immediately
 Pune,2,Hinjewadi,25000,1000,Flat,Unfurnished,East,"Garden/Park, Pool",2,1,Bachelors/Family,Immediately
-Pune,2,Hinjawadi,25000,636,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,1,Bachelors,Immediately
+Pune,2,Hinjewadi,25000,636,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,1,Bachelors,Immediately
 Pune,2,Kharadi,15000,780,Flat,Unfurnished,East,Main Road,2,2,Bachelors,Immediately
 Pune,3,Wakad,49500,1100,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",3,2,Bachelors,Immediately
 Pune,2,Viman Nagar,40000,1000,Flat,Furnished,East,"Garden/Park, Main Road",2,2,Bachelors/Family,Immediately
@@ -910,7 +910,7 @@ Pune,3,Wagholi,35000,2100,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",4
 Pune,3,Kharadi,53000,1350,Flat,Furnished,East,"Garden/Park, Main Road",2,1,Bachelors,Immediately
 Pune,2,Kalyani Nagar,65000,865,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors/Family,Immediately
 Pune,4,Kharadi,55000,1450,Flat,Semi-Furnished,East,Garden/Park,3,2,Bachelors,Immediately
-Pune,1,Hinjawadi,17000,436,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",1,1,Bachelors,Immediately
+Pune,1,Hinjewadi,17000,436,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",1,1,Bachelors,Immediately
 Pune,3,Wakad,39000,932,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,3,Bachelors,Immediately
 Pune,2,Wagholi,17500,1100,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors,Immediately
 Pune,2,Wagholi,19000,620,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,3,Bachelors/Family,Immediately
@@ -928,14 +928,14 @@ Pune,3,Wagholi,38000,1542,Flat,Semi-Furnished,East,"Garden/Park, Main Road",3,3,
 Pune,3,Kharadi,49999,1348,Flat,Unfurnished,East,"Garden/Park, Main Road",3,2,Family,Immediately
 Pune,2,Mundhwa,42000,1100,Flat,Furnished,West,"Garden/Park, Main Road",2,3,Family,Immediately
 Pune,1,Kharadi,16000,460,Flat,Semi-Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
-Pune,1,Hinjawadi,14000,500,House,Unfurnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Pune,1,Hinjewadi,14000,500,House,Unfurnished,East,Main Road,1,1,Bachelors/Family,Immediately
 Pune,1,Wagholi,5000,540,Flat,Unfurnished,East,Main Road,1,1,Bachelors/Family,Immediately
 Pune,3,Kharadi,20000,1350,Flat,Semi-Furnished,East,Main Road,2,3,Bachelors/Family,Immediately
 Pune,4,Kharadi,160000,2800,Flat,Semi-Furnished,East,Garden/Park,4,2,Family,Immediately
 Pune,2,Aundh,30000,950,Flat,Semi-Furnished,East,Garden/Park,2,1,Bachelors,Immediately
 Pune,2,Kharadi,32000,900,Flat,Unfurnished,East,Pool,2,1,Bachelors/Family,Immediately
 Pune,2,Wakad,40000,900,Flat,Furnished,East,"Garden/Park, Main Road",2,2,Bachelors,Immediately
-Pune,2,Hinjawadi,21000,629,Flat,Unfurnished,East,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Pune,2,Hinjewadi,21000,629,Flat,Unfurnished,East,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
 Pune,2,T Nagar,32000,850,Flat,Furnished,East,Main Road,2,2,Bachelors/Family,From Feb '26
 Pune,2,Kharadi,23000,700,Flat,Semi-Furnished,East,Garden/Park,2,2,Bachelors,Immediately
 Pune,3,Kharadi,26000,1395,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors/Family,Immediately
@@ -947,7 +947,7 @@ Pune,2,Kharadi,7000,831,Flat,Unfurnished,East,Garden/Park,2,1,Bachelors,From Feb
 Pune,2,Hadapsar,25500,950,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
 Pune,2,Undri,22999,900,Flat,Unfurnished,East,"Garden/Park, Main Road",2,3,Family,Immediately
 Pune,2,Hinjewadi,28500,790,Flat,Semi-Furnished,East,Garden/Park,2,2,Bachelors,Immediately
-Pune,1,Hinjawadi,15000,389,Flat,Semi-Furnished,East,"Garden/Park, Main Road",1,1,Bachelors,Immediately
+Pune,1,Hinjewadi,15000,389,Flat,Semi-Furnished,East,"Garden/Park, Main Road",1,1,Bachelors,Immediately
 Pune,2,Kharadi,20000,750,Flat,Semi-Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
 Pune,1,Mundhwa,9000,450,Flat,Semi-Furnished,West,Main Road,1,1,Bachelors/Family,Immediately
 Pune,3,Balewadi,45000,1500,Flat,Unfurnished,East,"Pool, Garden/Park, Main Road",3,3,Bachelors/Family,Immediately
