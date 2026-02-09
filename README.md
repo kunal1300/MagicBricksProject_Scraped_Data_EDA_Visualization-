@@ -1,54 +1,69 @@
-# MagicBricks Real Estate Analysis & Visualization 🏠📊
+# MagicBricks Real Estate Data Analysis & Visualization
 
-This repository contains a complete end-to-end data science project focused on the Indian rental real estate market. The project involves scraping, cleaning, and analyzing property data from **MagicBricks** for five major Indian metros: **Bangalore, Chennai, Hyderabad, Mumbai, and Pune**.
+## 📌 Project Overview
+This project involves the comprehensive analysis and visualization of rental property data scraped from **MagicBricks**. The dataset covers real estate listings across **5 major Indian cities**: Hyderabad, Bangalore, Mumbai, Pune, and Chennai. 
 
-## � Project Structure
+The primary goal is to gain insights into the rental market, understand price trends, analyze property characteristics, and identify tenant preferences.
 
-Collaborative analysis is split into two primary notebooks representing the data pipeline:
+## 📂 Dataset
+- **Source**: MagicBricks (Property for Rent)
+- **Raw Data**: `MagicBricksProject_Scraped_Data.csv`
+- **Cleaned Data**: `MagicBricksProject_Cleaned_Data.csv`
 
-### 1. [EDAProject.ipynb](./EDAProject.ipynb) (Data Acquisition & Cleaning)
-This notebook focuses on the technical foundation of the project:
-- **Web Scraping**: Custom scraper built with `BeautifulSoup` and `requests` to extract ~1,500 property listings.
-- **Data Engineering**: Standardizing raw text data (converting "Lac/Cr" to numeric, extracting area from strings).
-- **Quality Control**: Handling missing values, removing duplicates, and standardizing city-wise neighborhood names.
-- **Output**: Generates the `MagicBricksProject_Scraped_Data.csv` and initiates the transition to the cleaned dataset.
+### Data Dictionary
+| Column | Description |
+|:--- |:--- |
+| **City** | City where the property is located (e.g., Hyderabad, Mumbai) |
+| **BHK** | Number of Bedrooms, Hall, and Kitchen |
+| **Location** | Specific locality or neighborhood |
+| **Price** | Monthly rental price (INR) |
+| **Area (sqft)** | Built-up area in square feet |
+| **Property Type** | Type of property (e.g., Flat, House, Villa) |
+| **Furnishing** | Furnishing status (Furnished, Semi-Furnished, Unfurnished) |
+| **Property Facing** | Cardinal direction the property faces |
+| **Overlooking** | Views/Landmarks visible (e.g., Park, Main Road) |
+| **Bathroom** | Number of bathrooms |
+| **Balcony** | Number of balconies |
+| **Tenant Preferred** | Preferred tenant type (Bachelors, Family) |
+| **Availability** | Possession status (Immediately, From Date) |
 
-### 2. [Data Analysis and Visualization .ipynb](./Data Analysis and Visualization .ipynb) (Deep-Dive Analysis)
-This notebook extracts market intelligence through exploratory data analysis and high-impact visualizations:
-- **Statistical EDA**: Summary statistics and outlier detection across cities.
-- **Visual Insights**:
-    - **Price Distribution**: Identifying the "Mumbai Premium" vs. more affordable markets.
-    - **Physical Attributes**: Analyzing the correlation between Area, BHK, and Bathrooms.
-    - **Preference Patterns**: Visualizing Tenant Preferences and Furnishing trends.
-    - **Geospatial Hotspots**: Mapping Top 10 Most and Least expensive localities.
-- **Correlation Mapping**: Using heatmaps and pairplots to understand the variables most impacting rental valuation.
+## 🛠 Tech Stack
+- **Language**: Python
+- **Libraries**:
+  - `pandas` & `numpy` (Data Manupulation)
+  - `matplotlib` & `seaborn` (Visualization)
+  - `BeautifulSoup` (Web Scraping - *used for data collection*)
 
-## 🚀 Key Insights
-- **The Mumbai Premium**: Mumbai's average rent per sqft is nearly **3x** that of Hyderabad, despite similar property configurations.
-- **Standardization**: High correlation (0.86) between BHK and Bathrooms confirms standard urban apartment designs.
-- **Vastu Trends**: A massive inventory skew towards **East-facing** properties reflects strong cultural buyer/renter demand.
-- **Market Liquidity**: Over **90%** of listings are available for immediate possession.
+## 📊 Key Visualizations & Insights
+The project includes a series of visualizations to explore the data:
 
-## �️ Tech Stack
-- **Web Scraping**: `BeautifulSoup`, `requests`, `re`
-- **Data Science**: `pandas`, `numpy`
-- **Visualization**: `seaborn`, `matplotlib`
-- **Utility**: `time`, `warnings`
+1.  **Rental Price by City**: Comparison of average rental prices across the simple cities.
+2.  **Price Distribution**: Understanding the spread of rental prices.
+3.  **BHK Distribution**: Most common property configurations (1BHK, 2BHK, etc.).
+4.  **Price vs. Area**: Scatter plot analyzing the relationship between property size and rent.
+5.  **Furnishing Analysis**: Impact of furnishing on rental value.
+6.  **Property Type Distribution**: Breakdown of Flats vs. Independent Houses/Villas.
+7.  **Tenant Preference**: Analysis of owner preferences for Bachelors vs. Families.
+8.  **Property Facing**: Distribution of properties based on facing direction.
+9.  **Price Heatmaps**: visual representation of price density.
+10. **Bathroom & Balcony Analysis**: availability of amenities.
+11. **Location Analysis**: 
+    - Top Expensive Locations
+    - Least Expensive Locations
+12. **Correlation Matrix**: Heatmap showing correlations between numerical variables (Price, Area, BHK, etc.).
+13. **Availability Status**: Proportion of properties available immediately vs. later.
+14. **Price Per Sqft**: Analysis of the cost efficiency of rental spaces.
 
-## 🧹 Dataset Info
-The final dataset consists of **1,233+ clean listings** with features including:
-- BHK, Price, Area (sqft)
-- Property Type (Flat/House/Villa)
-- Furnishing Status
-- Facing Direction & Overlooking Views
-- Bathroom/Balcony Counts
-- Tenant Preference (Family/Bachelors)
+## 🚀 How to Run
+1.  Ensure you have Python installed along with the required libraries:
+    ```bash
+    pip install pandas numpy matplotlib seaborn
+    ```
+2.  Open the Jupyter Notebook:
+    ```bash
+    jupyter notebook "Data Analysis and Visualization .ipynb"
+    ```
+3.  Run the cells sequentially to reproduce the analysis and generate visualizations.
 
-## 🚀 How to Use
-1. **Data Gathering**: Run `EDAProject.ipynb` if you wish to see how the scraping and cleaning logic was built.
-2. **Analysis**: Run `Data Analysis and Visualization .ipynb` to generate the market analysis and interactive plots.
-
----
-**Author**: [Kunal]
-*Transforming raw real estate listings into actionable market insights.*
-
+## 📷 Saved Visualizations
+All generated plots are saved as PNG files in the project directory (e.g., `1_rental_price_by_city.png`, `12_correlation_heatmap.png`).
