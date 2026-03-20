@@ -54,16 +54,4 @@ The project includes a series of visualizations to explore the data:
 13. **Availability Status**: Proportion of properties available immediately vs. later.
 14. **Price Per Sqft**: Analysis of the cost efficiency of rental spaces.
 
-## 🚀 How to Run
-1.  Ensure you have Python installed along with the required libraries:
-    ```bash
-    pip install pandas numpy matplotlib seaborn
-    ```
-2.  Open the Jupyter Notebook:
-    ```bash
-    jupyter notebook "Data Analysis and Visualization .ipynb"
-    ```
-3.  Run the cells sequentially to reproduce the analysis and generate visualizations.
 
-## 📷 Saved Visualizations
-All generated plots are saved as PNG files in the project directory (e.g., `1_rental_price_by_city.png`, `12_correlation_heatmap.png`).
