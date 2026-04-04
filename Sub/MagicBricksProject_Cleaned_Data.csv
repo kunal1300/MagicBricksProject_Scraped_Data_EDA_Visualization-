@@ -1,0 +1,1234 @@
+City,BHK,Location,Price,Area (sqft),Property Type,Furnishing,Property Facing,overlooking,Bathroom,Balcony,Tenant Preferred,Availability
+Hyderabad,1,Kondapur,24000,450,Flat,Furnished,East,"Garden/Park, Main Road",1,1,Bachelors/Family,Immediately
+Hyderabad,1,Kondapur,15500,800,Flat,Semi-Furnished,North,Main Road,1,1,Bachelors,Immediately
+Hyderabad,2,Hitech City,58000,1355,Flat,Semi-Furnished,West,Garden/Park,2,1,Bachelors/Family,Immediately
+Hyderabad,1,Kondapur,24000,450,Flat,Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,60000,1805,Flat,Unfurnished,West,"Garden/Park, Pool, Main Road",3,2,Bachelors,Immediately
+Hyderabad,3,Kokapet,85000,2124,Flat,Semi-Furnished,East,Main Road,3,1,Bachelors,Immediately
+Hyderabad,3,Kokapet,70000,2020,Flat,Semi-Furnished,West,"Garden/Park, Pool",3,1,Bachelors/Family,Immediately
+Hyderabad,3,Tellapur,66000,1860,Flat,Semi-Furnished,North - East,Garden/Park,3,1,Bachelors/Family,Immediately
+Hyderabad,3,Gachibowli,85000,2190,Flat,Unfurnished,East,Main Road,3,2,Family,Immediately
+Hyderabad,2,Kondapur,15000,1300,Villa,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Hyderabad,3,Nalagandla,53000,1495,Flat,Semi-Furnished,West,"Pool, Garden/Park, Main Road",2,1,Bachelors,Immediately
+Hyderabad,3,Narsingi,75000,2125,Flat,Semi-Furnished,West,Main Road,3,1,Bachelors,Immediately
+Hyderabad,3,Kokapet,85000,1534,Flat,Semi-Furnished,West,Main Road,3,2,Family,Immediately
+Hyderabad,3,Miyapur,50000,1860,Flat,Semi-Furnished,East,Garden/Park,3,2,Family,Immediately
+Hyderabad,3,Kondapur,47000,2200,Villa,Furnished,West,Garden/Park,3,2,Bachelors/Family,Immediately
+Hyderabad,3,Narsingi,90000,2660,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",3,3,Bachelors,Immediately
+Hyderabad,2,Begumpet,23000,950,House,Semi-Furnished,North - East,Main Road,2,1,Bachelors/Family,Immediately
+Hyderabad,3,Chanda Nagar,32000,1500,Flat,Semi-Furnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Hyderabad,3,Nalagandla,60000,2435,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors,Immediately
+Hyderabad,2,Kukatpally,45000,1050,Flat,Semi-Furnished,East,Main Road,2,1,Family,Immediately
+Hyderabad,3,Kondapur,30000,1100,Flat,Semi-Furnished,West,Main Road,3,2,Bachelors/Family,Immediately
+Hyderabad,3,Miyapur,29000,1632,Flat,Semi-Furnished,East,Garden/Park,3,1,Bachelors,Immediately
+Hyderabad,2,Kondapur,21000,1450,House,Semi-Furnished,East,Garden/Park,2,2,Bachelors,Immediately
+Hyderabad,3,Kondapur,35000,1835,Flat,Semi-Furnished,West,Garden/Park,3,1,Bachelors/Family,Immediately
+Hyderabad,3,Kokapet,66000,1550,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,25000,900,House,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,10000,1100,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,10000,600,House,Unfurnished,North,Main Road,2,1,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,28000,1250,Flat,Furnished,East,Main Road,2,2,Bachelors,Immediately
+Hyderabad,3,Kondapur,60000,1798,Flat,Semi-Furnished,East,Garden/Park,3,1,Bachelors,Immediately
+Hyderabad,3,Narsingi,65000,1600,Flat,Semi-Furnished,West,"Garden/Park, Pool",3,2,Family,Immediately
+Hyderabad,2,Kukatpally,35000,800,Flat,Furnished,West,Main Road,2,1,Bachelors/Family,Immediately
+Hyderabad,1,Kondapur,26000,500,Flat,Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Hyderabad,3,Gachibowli,75000,2200,Flat,Furnished,East,"Garden/Park, Pool, Main Road",3,2,Bachelors/Family,Immediately
+Hyderabad,2,Uppal,26000,800,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors,Immediately
+Hyderabad,3,Kondapur,54000,2000,Flat,Semi-Furnished,West,"Garden/Park, Pool, Main Road",3,1,Family,Immediately
+Hyderabad,3,Kondapur,60000,1231,Flat,Semi-Furnished,West,Main Road,3,2,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,20000,1500,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Hyderabad,1,Kondapur,17000,199,Flat,Semi-Furnished,North,Main Road,1,1,Bachelors/Family,Immediately
+Hyderabad,3,Financial District,70000,1900,Flat,Semi-Furnished,West,Garden/Park,3,3,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,20000,1900,House,Unfurnished,North - East,"Garden/Park, Main Road",3,3,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,18000,1140,Flat,Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,55000,2060,Flat,Furnished,East,"Garden/Park, Pool",3,1,Bachelors,Immediately
+Hyderabad,3,Hafeezpet,45000,1800,Flat,Furnished,East,"Garden/Park, Pool, Main Road",3,3,Bachelors,Immediately
+Hyderabad,3,Kokapet,55000,1770,Flat,Semi-Furnished,East,Main Road,3,1,Bachelors/Family,From Mar '26
+Hyderabad,1,Banjara Hills,12500,450,Flat,Unfurnished,South - East,Main Road,1,1,Bachelors/Family,Immediately
+Hyderabad,3,Miyapur,28000,1435,Flat,Semi-Furnished,North,"Garden/Park, Main Road",2,2,Bachelors,Immediately
+Hyderabad,3,Kondapur,62000,1300,Flat,Furnished,East,Main Road,2,1,Bachelors,Immediately
+Hyderabad,3,Kokapet,65000,1769,Flat,Semi-Furnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Hyderabad,2,Hitech City,65000,1355,Flat,Furnished,East,Garden/Park,2,1,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,16000,1060,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors,Immediately
+Hyderabad,2,Kompally,17500,842,Flat,Semi-Furnished,West,Main Road,2,2,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,65000,1585,Flat,Semi-Furnished,East,"Garden/Park, Pool",3,1,Bachelors,Immediately
+Hyderabad,2,Kondapur,32000,800,Flat,Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Hyderabad,3,Gachibowli,67000,2600,House,Semi-Furnished,East,Garden/Park,3,1,Family,Immediately
+Hyderabad,3,Kondapur,29000,1500,House,Unfurnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Hyderabad,4,Kondapur,20000,1950,Flat,Unfurnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Hyderabad,3,Kokapet,60000,2800,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",3,2,Bachelors,Immediately
+Hyderabad,2,Kondapur,16000,1100,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors,From Feb '26
+Hyderabad,3,Kondapur,25000,1600,Flat,Semi-Furnished,West,"Garden/Park, Pool, Main Road",2,2,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,12500,1100,House,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Hyderabad,2,Miyapur,25000,1200,Flat,Furnished,West,Main Road,2,2,Bachelors/Family,Immediately
+Hyderabad,3,Manikonda,35000,1500,House,Semi-Furnished,North,Main Road,2,1,Bachelors,Immediately
+Hyderabad,3,Kondapur,55000,1800,Flat,Semi-Furnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,29000,1800,House,Furnished,East,Main Road,3,2,Bachelors/Family,Immediately
+Hyderabad,3,Nalagandla,60000,1800,Flat,Furnished,North - West,Garden/Park,3,2,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,65000,2000,Flat,Semi-Furnished,North,Main Road,3,3,Family,Immediately
+Hyderabad,3,Kompally,23000,1400,Flat,Semi-Furnished,West,Pool,2,1,Bachelors,Immediately
+Hyderabad,2,Miyapur,28000,990,Flat,Furnished,West,"Garden/Park, Main Road",2,1,Bachelors,From Feb '26
+Hyderabad,3,Kondapur,20000,1500,Villa,Semi-Furnished,East,Main Road,4,1,Bachelors,Immediately
+Hyderabad,3,Hitech City,47000,1500,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Hyderabad,4,Kompally,35000,230,Villa,Semi-Furnished,West,Garden/Park,3,1,Bachelors,Immediately
+Hyderabad,2,Kondapur,24000,180,Flat,Semi-Furnished,East,Main Road,2,1,Family,Immediately
+Hyderabad,2,Kondapur,45000,1503,Flat,Semi-Furnished,East,Main Road,2,2,Family,Immediately
+Hyderabad,3,Kukatpally,35000,1560,Flat,Furnished,East,Main Road,3,2,Bachelors,Immediately
+Hyderabad,3,Kukatpally,37000,1500,House,Semi-Furnished,East,Main Road,3,2,Family,Immediately
+Hyderabad,2,Kompally,23000,1350,Flat,Semi-Furnished,West,Main Road,2,1,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,22500,980,Flat,Semi-Furnished,East,Garden/Park,2,1,Bachelors/Family,Immediately
+Hyderabad,4,Kondapur,55000,1450,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors,Immediately
+Hyderabad,3,Kondapur,35000,1000,Flat,Semi-Furnished,East,Main Road,3,1,Bachelors,Immediately
+Hyderabad,3,Narsingi,58000,1535,Flat,Semi-Furnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,28000,1101,Flat,Semi-Furnished,East,Main Road,2,1,Family,From Feb '26
+Hyderabad,3,Kompally,35000,1720,Flat,Furnished,West,Main Road,3,1,Bachelors/Family,Immediately
+Hyderabad,3,Tellapur,50000,2500,Villa,Semi-Furnished,West,Garden/Park,3,2,Bachelors,Immediately
+Hyderabad,3,Kondapur,35000,1590,Flat,Semi-Furnished,West,Main Road,3,2,Bachelors/Family,From Apr '26
+Hyderabad,2,Financial District,53000,1000,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Hyderabad,2,Miyapur,32000,1214,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Hyderabad,3,Kokapet,75000,1150,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,18000,600,Flat,Unfurnished,East,Main Road,2,1,Bachelors,Immediately
+Hyderabad,2,Kondapur,15000,1160,Flat,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,15000,1100,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors,Immediately
+Hyderabad,2,Kondapur,27000,1200,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,15000,950,House,Semi-Furnished,West,Main Road,2,1,Family,From Feb '26
+Hyderabad,3,Kondapur,26000,2200,House,Unfurnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,11000,500,Flat,Unfurnished,North,Main Road,2,1,Bachelors/Family,Immediately
+Hyderabad,3,Kollur,30000,1285,Flat,Semi-Furnished,West,Main Road,2,1,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,20000,1000,Flat,Furnished,West,Main Road,2,2,Bachelors/Family,Immediately
+Hyderabad,3,Hafeezpet,48000,1600,Flat,Semi-Furnished,East,"Garden/Park, Main Road",3,1,Bachelors,Immediately
+Hyderabad,3,Gachibowli,70000,1745,Flat,Semi-Furnished,East,Main Road,3,3,Bachelors/Family,Immediately
+Hyderabad,1,Kondapur,20000,550,Flat,Semi-Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,28000,1362,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,55000,1451,Flat,Furnished,North - East,Garden/Park,3,1,Family,Immediately
+Hyderabad,2,Asif Nagar,15000,845,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Hyderabad,3,Kompally,35000,1890,Flat,Semi-Furnished,North - East,"Garden/Park, Pool, Main Road",3,1,Bachelors/Family,From Feb '26
+Hyderabad,3,Nalagandla,65000,1910,Flat,Semi-Furnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,12000,600,House,Semi-Furnished,North,Main Road,2,2,Bachelors,Immediately
+Hyderabad,3,Bachupally,25000,1860,Villa,Semi-Furnished,North,Main Road,3,1,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,11000,1500,House,Semi-Furnished,West,Main Road,2,3,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,21500,1800,House,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,From Mar '26
+Hyderabad,2,Kondapur,15000,650,House,Semi-Furnished,West,Main Road,1,1,Bachelors/Family,From Feb '26
+Hyderabad,3,Kondapur,110000,500,Flat,Unfurnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,19000,1100,Flat,Semi-Furnished,East,Garden/Park,2,1,Family,Immediately
+Hyderabad,3,Kondapur,45000,2200,Flat,Furnished,East,Garden/Park,3,1,Bachelors/Family,Immediately
+Hyderabad,3,Hitech City,55000,1200,Flat,Furnished,North,Main Road,3,2,Bachelors/Family,Immediately
+Hyderabad,1,Kondapur,7500,450,House,Unfurnished,East,Main Road,1,1,Bachelors,Immediately
+Hyderabad,2,Kondapur,12000,1000,Flat,Unfurnished,North - East,Main Road,2,2,Bachelors/Family,From Jan '26
+Hyderabad,4,Kondapur,25000,280,House,Unfurnished,East,Garden/Park,4,3,Family,Immediately
+Hyderabad,3,Kondapur,46000,2800,Villa,Furnished,East,"Garden/Park, Pool",3,2,Bachelors,Immediately
+Hyderabad,2,Kondapur,20000,150,House,Unfurnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,55000,1950,Flat,Furnished,North - East,Main Road,3,3,Bachelors/Family,Immediately
+Hyderabad,3,Tellapur,56000,2083,Flat,Semi-Furnished,East,"Garden/Park, Main Road",3,3,Bachelors/Family,From Mar '26
+Hyderabad,3,Uppal,25000,1500,Flat,Semi-Furnished,East,Main Road,3,3,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,17000,1100,House,Semi-Furnished,North,Main Road,2,2,Family,Immediately
+Hyderabad,3,Kondapur,35000,1585,Flat,Semi-Furnished,West,"Garden/Park, Pool",3,1,Bachelors/Family,Immediately
+Hyderabad,2,Secunderabad,12000,1100,House,Unfurnished,East,Main Road,2,1,Family,Immediately
+Hyderabad,2,Kondapur,19800,750,Flat,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Hyderabad,3,Kukatpally,30000,1460,Villa,Semi-Furnished,West,Main Road,3,1,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,62000,1850,Flat,Furnished,East,"Garden/Park, Main Road",3,3,Bachelors,Immediately
+Hyderabad,3,Kukatpally,44000,1540,Flat,Semi-Furnished,East,Garden/Park,3,2,Bachelors,Immediately
+Hyderabad,3,Narsingi,64000,1700,Flat,Semi-Furnished,East,"Garden/Park, Main Road",3,2,Bachelors/Family,Immediately
+Hyderabad,3,Narsingi,38000,1717,Flat,Semi-Furnished,East,Main Road,3,3,Bachelors/Family,Immediately
+Hyderabad,3,Narsingi,45000,1650,Flat,Semi-Furnished,West,"Pool, Garden/Park, Main Road",3,1,Bachelors,Immediately
+Hyderabad,1,Uppal,9000,95,Flat,Unfurnished,North,Main Road,1,2,Bachelors,Immediately
+Hyderabad,3,Nalagandla,54000,1600,Flat,Furnished,East,"Garden/Park, Main Road",3,2,Bachelors,Immediately
+Hyderabad,3,Kondapur,30000,1950,Villa,Semi-Furnished,East,Main Road,3,3,Bachelors/Family,Immediately
+Hyderabad,1,Kondapur,6500,100,Flat,Unfurnished,North,Main Road,1,1,Bachelors/Family,Immediately
+Hyderabad,1,Miyapur,15000,750,Flat,Unfurnished,North,Main Road,1,1,Bachelors,Immediately
+Hyderabad,2,Kondapur,25000,1250,Flat,Semi-Furnished,North,Main Road,2,2,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,29000,1500,Flat,Semi-Furnished,North,Main Road,2,2,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,30000,1400,Flat,Semi-Furnished,North - East,Main Road,3,3,Bachelors/Family,Immediately
+Hyderabad,3,Gachibowli,65000,2200,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",3,2,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,25000,240,House,Semi-Furnished,North,"Garden/Park, Main Road",2,2,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,140000,2000,Flat,Semi-Furnished,West,"Garden/Park, Pool",4,1,Bachelors,Immediately
+Hyderabad,1,Kondapur,8500,900,House,Unfurnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,75000,2244,Flat,Semi-Furnished,West,"Garden/Park, Pool, Main Road",3,2,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,80000,2500,Flat,Furnished,East,"Garden/Park, Main Road",3,3,Bachelors,Immediately
+Hyderabad,3,Kondapur,45000,1350,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,35000,1800,House,Semi-Furnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Hyderabad,4,Gachibowli,85000,2400,Flat,Furnished,East,"Garden/Park, Main Road",4,3,Bachelors,Immediately
+Hyderabad,1,Uppal,30000,650,Flat,Furnished,North,Main Road,1,1,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,30000,1560,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,1,Bachelors/Family,Immediately
+Hyderabad,1,Gachibowli,16000,400,Flat,Unfurnished,East,Garden/Park,1,1,Bachelors/Family,Immediately
+Hyderabad,3,Kokapet,80000,1250,Flat,Furnished,East,Main Road,3,2,Bachelors/Family,Immediately
+Hyderabad,3,Nalagandla,47000,2000,Flat,Unfurnished,West,"Garden/Park, Pool, Main Road",3,2,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,18000,1400,House,Unfurnished,North - East,Main Road,3,3,Bachelors/Family,Immediately
+Hyderabad,3,Punjagutta,60000,1328,Flat,Semi-Furnished,North,Main Road,3,1,Bachelors/Family,Immediately
+Hyderabad,3,Hitech City,75000,2595,Flat,Semi-Furnished,East,Main Road,3,2,Family,Immediately
+Hyderabad,3,Banjara Hills,35000,1550,Flat,Semi-Furnished,North - East,Main Road,3,2,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,25000,2400,House,Unfurnished,North,"Garden/Park, Main Road",3,1,Bachelors,Immediately
+Hyderabad,3,Kondapur,50000,900,House,Furnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,66000,1798,Flat,Semi-Furnished,West,Garden/Park,3,2,Bachelors,Immediately
+Hyderabad,3,Kondapur,42000,1750,Flat,Semi-Furnished,North - East,Main Road,3,2,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,18000,900,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors,Immediately
+Hyderabad,3,Kondapur,29000,1350,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Hyderabad,3,Madhapur,95000,1750,Flat,Furnished,North - East,Main Road,3,2,Bachelors,Immediately
+Hyderabad,3,Madhapur,60000,1850,Flat,Semi-Furnished,North - East,Main Road,3,1,Bachelors/Family,Immediately
+Hyderabad,3,Hafeezpet,60000,1780,Flat,Furnished,East,Main Road,3,2,Bachelors/Family,Immediately
+Hyderabad,3,Tellapur,47000,2560,Villa,Semi-Furnished,East,Garden/Park,4,1,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,30000,1412,Villa,Semi-Furnished,East,"Garden/Park, Main Road",3,2,Bachelors,Immediately
+Hyderabad,3,Kukatpally,45000,1523,Flat,Semi-Furnished,West,"Garden/Park, Main Road",3,2,Bachelors,Immediately
+Hyderabad,2,Kondapur,15000,1400,House,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,29000,1300,Flat,Semi-Furnished,East,Garden/Park,3,3,Family,Immediately
+Hyderabad,2,Kondapur,25000,1150,Flat,Semi-Furnished,East,Main Road,3,1,Bachelors,Immediately
+Hyderabad,2,Kondapur,20000,1900,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,35000,1600,Villa,Semi-Furnished,North,"Garden/Park, Main Road",4,1,Family,Immediately
+Hyderabad,1,Uppal,14000,600,Flat,Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Hyderabad,3,Hitech City,45000,1652,Flat,Semi-Furnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Hyderabad,1,Kondapur,11000,900,House,Semi-Furnished,North,Main Road,1,1,Bachelors,Immediately
+Hyderabad,2,Madhapur,27500,950,House,Semi-Furnished,North,Main Road,2,1,Bachelors,Immediately
+Hyderabad,2,Hitech City,44000,1135,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Hyderabad,2,Secunderabad,50000,1170,Flat,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Hyderabad,3,Uppal,75000,1982,Flat,Semi-Furnished,West,"Garden/Park, Main Road",3,1,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,33000,1210,Flat,Furnished,West,"Main Road, Garden/Park, Pool",2,1,Bachelors/Family,Immediately
+Hyderabad,3,Kukatpally,45000,1585,Flat,Semi-Furnished,West,Garden/Park,4,3,Family,Immediately
+Hyderabad,3,Nalagandla,47000,1500,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,15000,750,House,Unfurnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,22000,1200,Flat,Semi-Furnished,West,Garden/Park,2,3,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,23000,1350,House,Semi-Furnished,East,Main Road,3,3,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,30000,2000,House,Semi-Furnished,West,Main Road,3,3,Family,Immediately
+Hyderabad,4,Kompally,40000,2600,Villa,Semi-Furnished,East,Main Road,4,2,Family,Immediately
+Hyderabad,2,Chanda Nagar,18000,1100,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Hyderabad,1,Kondapur,4500,300,Flat,Semi-Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,38000,1550,Flat,Furnished,East,Main Road,3,2,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,15000,1000,Flat,Unfurnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Hyderabad,2,Uppal,15000,1200,House,Unfurnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,55000,2350,Flat,Semi-Furnished,East,Garden/Park,3,1,Bachelors,Immediately
+Hyderabad,2,Secunderabad,18000,1200,House,Semi-Furnished,East,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Hyderabad,3,Kokapet,55000,1539,Flat,Furnished,North,Main Road,3,1,Family,Immediately
+Hyderabad,3,Kondapur,30000,1750,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,40000,1450,Flat,Furnished,East,Main Road,2,2,Bachelors,Immediately
+Hyderabad,3,Begumpet,40000,1950,House,Semi-Furnished,North - East,Main Road,3,2,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,20000,1320,Flat,Semi-Furnished,East,Main Road,3,3,Bachelors,Immediately
+Hyderabad,2,Kondapur,35000,1800,House,Unfurnished,East,Main Road,3,1,Bachelors,Immediately
+Hyderabad,3,Kondapur,100000,2350,Flat,Furnished,East,"Garden/Park, Pool, Main Road",4,1,Bachelors,Immediately
+Hyderabad,3,T Nagar,30000,1380,Flat,Semi-Furnished,North,Main Road,3,2,Bachelors,Immediately
+Hyderabad,2,Begumpet,21000,1150,Flat,Furnished,North - East,Main Road,2,1,Bachelors/Family,Immediately
+Hyderabad,1,Kondapur,8000,342,House,Semi-Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Hyderabad,3,Hitech City,58000,1500,Flat,Semi-Furnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Hyderabad,1,Kondapur,9000,550,House,Unfurnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,96001,2500,Flat,Semi-Furnished,South,"Garden/Park, Main Road",3,2,Family,Immediately
+Hyderabad,3,Narsingi,90000,1631,Flat,Semi-Furnished,East,"Pool, Garden/Park, Main Road",3,1,Bachelors,Immediately
+Hyderabad,3,Nalagandla,58000,1900,Flat,Semi-Furnished,East,"Pool, Main Road",3,2,Bachelors/Family,Immediately
+Hyderabad,3,Nalagandla,70000,1212,Flat,Semi-Furnished,North,Garden/Park,3,1,Bachelors,Immediately
+Hyderabad,2,Hitech City,35000,1250,Flat,Semi-Furnished,East,Garden/Park,2,1,Bachelors,From Feb '26
+Hyderabad,2,Kondapur,30000,1100,Flat,Semi-Furnished,North,Main Road,2,1,Bachelors,Immediately
+Hyderabad,3,Kokapet,55000,1400,Flat,Semi-Furnished,West,Garden/Park,3,3,Family,From Mar '26
+Hyderabad,1,Kondapur,22000,680,Flat,Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Hyderabad,3,Kokapet,70000,2600,Flat,Semi-Furnished,East,"Pool, Garden/Park, Main Road",3,2,Bachelors,Immediately
+Hyderabad,3,Gachibowli,70000,1700,Flat,Semi-Furnished,East,"Pool, Garden/Park, Main Road",3,1,Bachelors,Immediately
+Hyderabad,3,Whitefield,85000,1990,Flat,Furnished,East,Main Road,3,2,Bachelors,Immediately
+Hyderabad,4,Gachibowli,65000,2300,Flat,Semi-Furnished,West,Main Road,4,2,Bachelors/Family,Immediately
+Hyderabad,3,Narsingi,55000,1236,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors,Immediately
+Hyderabad,3,Jubilee Hills,70000,2350,Flat,Furnished,North,Garden/Park,3,2,Bachelors,Immediately
+Hyderabad,3,Narsingi,70000,2335,Flat,Semi-Furnished,West,"Pool, Garden/Park, Main Road",3,1,Bachelors,Immediately
+Hyderabad,3,Narsingi,75000,2050,Flat,Semi-Furnished,East,"Garden/Park, Main Road",3,2,Family,Immediately
+Hyderabad,1,Kondapur,24500,490,Flat,Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Hyderabad,3,Hafeezpet,45000,2020,Flat,Semi-Furnished,East,"Garden/Park, Main Road",3,2,Bachelors,Immediately
+Hyderabad,1,Kondapur,8000,504,House,Unfurnished,North,Main Road,1,1,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,25000,1200,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,32000,1150,Flat,Semi-Furnished,East,"Garden/Park, Main Road",2,1,Bachelors,Immediately
+Hyderabad,3,Kokapet,70000,1796,Flat,Semi-Furnished,East,Garden/Park,3,2,Bachelors,Immediately
+Hyderabad,3,Kondapur,70000,2567,Flat,Semi-Furnished,West,"Garden/Park, Pool, Main Road",3,2,Bachelors,From Feb '26
+Hyderabad,3,Hitech City,55000,2000,Flat,Semi-Furnished,North,Garden/Park,3,1,Family,Immediately
+Hyderabad,2,Kondapur,15000,1000,House,Unfurnished,East,"Garden/Park, Main Road",2,1,Bachelors,Immediately
+Hyderabad,3,Nalagandla,60000,1895,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",3,2,Bachelors,Immediately
+Hyderabad,3,Kokapet,78000,2124,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors/Family,Immediately
+Hyderabad,3,Nalagandla,54000,1212,Flat,Semi-Furnished,West,"Garden/Park, Main Road",3,2,Bachelors/Family,Immediately
+Hyderabad,3,Kokapet,80000,2048,Flat,Furnished,East,Main Road,3,1,Bachelors,Immediately
+Hyderabad,3,Gachibowli,70000,2490,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",3,3,Bachelors/Family,Immediately
+Hyderabad,2,Uppal,18000,2500,House,Unfurnished,East,Main Road,2,1,Bachelors/Family,From Feb '26
+Hyderabad,3,Tellapur,50000,2500,Villa,Semi-Furnished,East,Main Road,4,1,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,38000,2100,Flat,Unfurnished,North,Main Road,3,1,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,25000,1500,Flat,Semi-Furnished,North - East,"Garden/Park, Main Road",3,3,Bachelors,Immediately
+Hyderabad,3,Kokapet,63000,2235,Flat,Semi-Furnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Hyderabad,3,Manikonda,45000,1700,Flat,Semi-Furnished,East,Main Road,3,3,Bachelors/Family,Immediately
+Hyderabad,4,Kondapur,75000,2800,Villa,Semi-Furnished,West,"Garden/Park, Pool, Main Road",4,1,Bachelors/Family,Immediately
+Hyderabad,1,Kondapur,10000,750,Flat,Unfurnished,West,Main Road,1,1,Family,Immediately
+Hyderabad,3,Nizampet,26000,1700,Flat,Furnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Hyderabad,2,Shamshabad,17000,1700,Flat,Unfurnished,East,Main Road,2,3,Bachelors/Family,Immediately
+Hyderabad,3,Kondapur,55000,1686,Flat,Semi-Furnished,North,Main Road,3,1,Bachelors/Family,Immediately
+Hyderabad,3,Gachibowli,70000,2190,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",3,1,Bachelors,Immediately
+Hyderabad,1,Kondapur,7000,1100,House,Semi-Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Hyderabad,2,Kondapur,17000,1000,House,Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Hyderabad,1,Kondapur,12500,800,Flat,Unfurnished,North - East,Main Road,1,1,Bachelors/Family,Immediately
+Hyderabad,3,Miyapur,50000,1495,Flat,Semi-Furnished,East,Garden/Park,2,3,Bachelors,Immediately
+Hyderabad,2,Kondapur,25000,1210,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors,From Mar '26
+Hyderabad,3,Narsingi,70000,1660,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors,Immediately
+Hyderabad,2,Kondapur,22000,1362,Flat,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Hyderabad,1,Gachibowli,14000,710,Flat,Furnished,North - East,"Pool, Garden/Park, Main Road",2,1,Bachelors,Immediately
+Hyderabad,3,Whitefield,42000,2000,Flat,Furnished,East,Garden/Park,3,2,Bachelors,From Feb '26
+Bangalore,3,Rajajinagar,55000,1500,Flat,Unfurnished,East,"Garden/Park, Main Road",3,3,Bachelors,Immediately
+Bangalore,3,Whitefield,80000,1320,Flat,Furnished,North,"Garden/Park, Pool",3,2,Family,Immediately
+Bangalore,3,Kanakapura Road,68000,1200,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",3,1,Family,Immediately
+Bangalore,4,Whitefield,150000,2300,Villa,Furnished,East,Garden/Park,4,2,Family,Immediately
+Bangalore,2,Kanakapura Road,40000,1280,Flat,Semi-Furnished,South,"Pool, Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Bangalore,3,Kanakapura Road,65000,1710,Flat,Semi-Furnished,East,"Pool, Main Road",3,1,Bachelors,Immediately
+Bangalore,4,Whitefield,110000,1850,Flat,Semi-Furnished,North,"Pool, Garden/Park, Main Road",4,3,Bachelors,Immediately
+Bangalore,2,Bannerghatta Main Road,57000,867,Flat,Furnished,East,Garden/Park,2,1,Bachelors,Immediately
+Bangalore,3,Whitefield,55000,1300,Flat,Semi-Furnished,East,"Garden/Park, Pool",3,2,Family,Immediately
+Bangalore,1,BTM Layout,29998,599,Flat,Furnished,North - East,Main Road,1,1,Bachelors/Family,Immediately
+Bangalore,4,Whitefield,70000,2800,Villa,Semi-Furnished,North,Main Road,4,2,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,110000,2800,Villa,Semi-Furnished,East,"Garden/Park, Pool",4,3,Bachelors/Family,Immediately
+Bangalore,2,Whitefield,37000,626,Flat,Unfurnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Bangalore,3,Sarjapur,50000,868,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,1,Bachelors/Family,Immediately
+Bangalore,2,Whitefield,40890,1100,Flat,Semi-Furnished,North,Main Road,2,2,Bachelors/Family,Immediately
+Bangalore,2,Whitefield,35000,1200,Flat,Semi-Furnished,North,Main Road,2,1,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,70000,1405,Flat,Semi-Furnished,East,"Pool, Garden/Park, Main Road",2,2,Bachelors,From Feb '26
+Bangalore,3,Whitefield,60000,1991,Flat,Semi-Furnished,East,Garden/Park,3,3,Bachelors/Family,Immediately
+Bangalore,3,Varthur,65000,1034,Flat,Semi-Furnished,North - East,"Garden/Park, Pool",3,2,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,45000,980,Flat,Semi-Furnished,East,"Garden/Park, Main Road",2,1,Bachelors,Immediately
+Bangalore,4,Sarjapur,90000,1490,Flat,Semi-Furnished,East,Pool,4,2,Bachelors,Immediately
+Bangalore,3,Whitefield,75000,1239,Flat,Semi-Furnished,East,Garden/Park,2,1,Bachelors/Family,Immediately
+Bangalore,3,Sarjapur,45000,1120,Flat,Semi-Furnished,North - East,Main Road,3,1,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,44000,1655,Flat,Semi-Furnished,East,Main Road,3,3,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,72000,1300,Flat,Furnished,East,"Garden/Park, Pool, Main Road",3,1,Bachelors/Family,Immediately
+Bangalore,3,Sarjapur,45000,1415,Flat,Furnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Bangalore,3,Hebbal,52000,2038,Flat,Semi-Furnished,South,Garden/Park,3,3,Bachelors,Immediately
+Bangalore,3,Sarjapur,65000,1228,Flat,Semi-Furnished,East,"Garden/Park, Main Road",3,2,Bachelors,Immediately
+Bangalore,1,Whitefield,23000,500,Flat,Semi-Furnished,North,Garden/Park,1,1,Bachelors/Family,Immediately
+Bangalore,3,Yelahanka,50000,1200,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors,Immediately
+Bangalore,3,Whitefield,42000,1415,Flat,Semi-Furnished,North,"Garden/Park, Pool, Main Road",2,2,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,67000,1128,Flat,Semi-Furnished,East,Garden/Park,3,1,Bachelors,Immediately
+Bangalore,3,Whitefield,50000,1730,Flat,Semi-Furnished,East,Main Road,3,3,Bachelors/Family,From Mar '26
+Bangalore,3,Whitefield,85000,1312,Flat,Semi-Furnished,East,"Garden/Park, Pool",3,3,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,70000,1379,Flat,Semi-Furnished,North,"Pool, Garden/Park, Main Road",3,2,Bachelors/Family,Immediately
+Bangalore,2,Electronic City,24000,900,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Bangalore,2,Bannerghatta Main Road,55000,772,Flat,Semi-Furnished,East,Garden/Park,2,1,Family,Immediately
+Bangalore,3,Whitefield,90000,1850,Flat,Semi-Furnished,East,Main Road,3,3,Bachelors,Immediately
+Bangalore,3,Whitefield,130000,1408,Flat,Semi-Furnished,West,Garden/Park,3,2,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,65000,1750,Flat,Semi-Furnished,West,Garden/Park,2,2,Bachelors,Immediately
+Bangalore,2,Whitefield,32000,1160,Flat,Semi-Furnished,West,"Pool, Garden/Park, Main Road",2,2,Bachelors,Immediately
+Bangalore,3,Sarjapur,60000,1228,Flat,Semi-Furnished,West,Pool,3,2,Bachelors,Immediately
+Bangalore,1,Whitefield,30000,675,Flat,Semi-Furnished,North,"Garden/Park, Pool, Main Road",1,1,Bachelors/Family,Immediately
+Bangalore,2,Whitefield,25000,1050,Flat,Semi-Furnished,East,Garden/Park,2,1,Family,Immediately
+Bangalore,3,Whitefield,85000,1400,Flat,Furnished,East,"Garden/Park, Pool",2,2,Bachelors,Immediately
+Bangalore,2,Whitefield,30000,640,Flat,Semi-Furnished,North,Pool,2,1,Family,From Feb '26
+Bangalore,2,Whitefield,36000,925,Flat,Semi-Furnished,East,"Pool, Garden/Park, Main Road",2,1,Bachelors,From Feb '26
+Bangalore,3,Banashankari,70000,1700,Flat,Semi-Furnished,North,Garden/Park,3,1,Family,Immediately
+Bangalore,3,Hebbal,65000,1250,Flat,Semi-Furnished,East,Garden/Park,3,2,Bachelors/Family,Immediately
+Bangalore,2,Whitefield,32000,1085,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors/Family,From Feb '26
+Bangalore,1,HSR Layout,30000,600,Flat,Semi-Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Bangalore,2,Whitefield,45000,1300,Flat,Semi-Furnished,East,"Garden/Park, Pool",2,1,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,54000,1100,Flat,Semi-Furnished,West,Pool,3,1,Bachelors/Family,Immediately
+Bangalore,2,Whitefield,36000,690,Flat,Semi-Furnished,East,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,65000,1760,Flat,Semi-Furnished,West,Garden/Park,3,2,Bachelors/Family,Immediately
+Bangalore,4,Whitefield,100000,2100,Flat,Semi-Furnished,North,"Pool, Garden/Park, Main Road",4,2,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,48000,1020,Flat,Semi-Furnished,North - West,Main Road,2,2,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,45000,1500,Flat,Semi-Furnished,North,Garden/Park,3,2,Bachelors/Family,Immediately
+Bangalore,2,HSR Layout,42000,1250,Flat,Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,90000,1330,Flat,Semi-Furnished,North - West,"Garden/Park, Pool",4,2,Bachelors,Immediately
+Bangalore,2,Sarjapur,52000,800,Flat,Semi-Furnished,East,Main Road,2,1,Family,Immediately
+Bangalore,3,Whitefield,23000,466,Flat,Semi-Furnished,East,Main Road,2,3,Bachelors/Family,Immediately
+Bangalore,2,Whitefield,55000,1250,Flat,Semi-Furnished,North,"Garden/Park, Pool, Main Road",2,2,Family,From Feb '26
+Bangalore,3,Whitefield,43000,1571,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,2,Bachelors,Immediately
+Bangalore,3,Electronic City,50000,1710,Flat,Semi-Furnished,East,Garden/Park,3,2,Family,Immediately
+Bangalore,3,Whitefield,65000,1817,Flat,Semi-Furnished,East,"Pool, Garden/Park",3,1,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,83000,1300,Flat,Semi-Furnished,North,Garden/Park,3,3,Bachelors/Family,Immediately
+Bangalore,1,HSR Layout,25000,500,House,Semi-Furnished,North,Main Road,1,1,Bachelors,Immediately
+Bangalore,3,Sarjapur,69500,1560,Flat,Semi-Furnished,East,Garden/Park,3,2,Family,From Feb '26
+Bangalore,3,Whitefield,70000,1740,Flat,Semi-Furnished,East,Garden/Park,3,2,Bachelors,Immediately
+Bangalore,3,Whitefield,74000,1015,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",3,1,Family,Immediately
+Bangalore,3,Electronic City,42000,1674,Flat,Semi-Furnished,East,"Pool, Garden/Park, Main Road",3,2,Bachelors,Immediately
+Bangalore,3,Basavanagudi,110000,2200,Flat,Furnished,East,"Garden/Park, Main Road",3,3,Family,Immediately
+Bangalore,3,JP Nagar,47000,1100,Flat,Semi-Furnished,East,Garden/Park,2,1,Family,Immediately
+Bangalore,4,Whitefield,52500,2695,Villa,Semi-Furnished,East,"Garden/Park, Main Road",4,2,Bachelors/Family,Immediately
+Bangalore,2,Whitefield,40000,1096,Flat,Semi-Furnished,East,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,110000,1600,Flat,Furnished,East,"Garden/Park, Main Road",3,3,Family,Immediately
+Bangalore,3,Koramangala,90000,1800,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors,Immediately
+Bangalore,3,Marathahalli,65000,1975,Flat,Semi-Furnished,East,Garden/Park,3,3,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,57000,1000,Flat,Semi-Furnished,North - East,"Garden/Park, Pool, Main Road",3,2,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,65000,1900,Flat,Furnished,North,Pool,3,2,Bachelors/Family,Immediately
+Bangalore,2,Whitefield,43000,951,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Bangalore,2,Whitefield,35000,1050,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors,Immediately
+Bangalore,4,Sarjapur,100000,1538,Flat,Unfurnished,North,"Garden/Park, Pool",4,2,Bachelors,Immediately
+Bangalore,2,Sarjapur,60000,1350,Flat,Furnished,East,Main Road,2,1,Bachelors/Family,From Feb '26
+Bangalore,3,Whitefield,65000,1790,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",3,2,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,98000,1959,Flat,Semi-Furnished,East,"Garden/Park, Pool",3,3,Bachelors/Family,Immediately
+Bangalore,3,Rajajinagar,160000,1500,Flat,Semi-Furnished,West,"Garden/Park, Pool",3,2,Bachelors,Immediately
+Bangalore,3,Whitefield,90000,2072,Flat,Furnished,East,Garden/Park,3,2,Bachelors,Immediately
+Bangalore,4,Indiranagar,85000,2000,Flat,Semi-Furnished,East,"Garden/Park, Main Road",4,3,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,49900,1906,Flat,Semi-Furnished,East,Garden/Park,3,2,Bachelors,Immediately
+Bangalore,3,Whitefield,75000,1600,Flat,Semi-Furnished,North - West,"Garden/Park, Pool, Main Road",3,3,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,47000,1088,Flat,Semi-Furnished,North - East,"Garden/Park, Pool, Main Road",3,3,Bachelors/Family,Immediately
+Bangalore,2,Whitefield,40000,1175,Flat,Semi-Furnished,West,Garden/Park,2,1,Family,Immediately
+Bangalore,3,Whitefield,86000,1836,Flat,Semi-Furnished,North,"Pool, Garden/Park, Main Road",3,3,Family,From Feb '26
+Bangalore,1,Whitefield,18000,650,House,Semi-Furnished,East,"Garden/Park, Main Road",1,1,Bachelors,Immediately
+Bangalore,3,Sarjapur,75000,1536,Flat,Semi-Furnished,East,"Garden/Park, Main Road",3,2,Bachelors/Family,From Feb '26
+Bangalore,2,Whitefield,15000,758,Flat,Semi-Furnished,East,Main Road,2,2,Family,Immediately
+Bangalore,2,Whitefield,48000,1242,Flat,Semi-Furnished,East,"Pool, Garden/Park, Main Road",2,2,Bachelors,From Feb '26
+Bangalore,2,BTM Layout,43000,1500,Flat,Semi-Furnished,North - East,Main Road,2,1,Bachelors,Immediately
+Bangalore,3,Jayanagar,65000,1500,Flat,Semi-Furnished,North,Main Road,3,1,Bachelors/Family,Immediately
+Bangalore,3,Koramangala,110000,1895,Flat,Unfurnished,East,"Garden/Park, Pool",3,3,Bachelors,Immediately
+Bangalore,3,Whitefield,70000,1500,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,3,Bachelors/Family,From Feb '26
+Bangalore,2,HSR Layout,37000,1200,Flat,Semi-Furnished,South - East,Main Road,2,1,Bachelors/Family,Immediately
+Bangalore,3,Marathahalli,95000,1710,Flat,Semi-Furnished,North - East,"Garden/Park, Main Road",3,3,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,95000,2180,Flat,Furnished,East,Garden/Park,3,2,Family,Immediately
+Bangalore,3,Indiranagar,120000,1960,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,40000,1100,Flat,Semi-Furnished,East,"Pool, Garden/Park, Main Road",3,2,Bachelors,Immediately
+Bangalore,2,Whitefield,46000,800,Flat,Semi-Furnished,East,Garden/Park,2,1,Bachelors/Family,Immediately
+Bangalore,2,Sarjapur,55000,1200,Flat,Semi-Furnished,East,"Main Road, Pool, Garden/Park",2,2,Bachelors,From Feb '26
+Bangalore,1,HSR Layout,30000,570,Flat,Semi-Furnished,East,Garden/Park,1,1,Bachelors/Family,Immediately
+Bangalore,2,Bellandur,56000,1320,Flat,Semi-Furnished,West,Garden/Park,2,2,Bachelors,Immediately
+Bangalore,3,Whitefield,92500,1500,Flat,Furnished,North,Garden/Park,4,2,Family,Immediately
+Bangalore,3,Jayanagar,130000,2307,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors,Immediately
+Bangalore,2,Electronic City,27500,1150,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors,Immediately
+Bangalore,3,Whitefield,55000,1255,Flat,Semi-Furnished,North - West,"Pool, Garden/Park, Main Road",3,1,Bachelors,Immediately
+Bangalore,2,Whitefield,45000,900,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Bangalore,3,Sarjapur,69400,1665,Flat,Semi-Furnished,East,"Pool, Garden/Park",3,2,Bachelors,Immediately
+Bangalore,2,HSR Layout,19000,850,Flat,Semi-Furnished,North,Main Road,2,1,Bachelors,From Feb '26
+Bangalore,3,Sarjapur,130000,1800,Villa,Semi-Furnished,West,"Pool, Main Road",3,2,Bachelors,From Feb '26
+Bangalore,3,Hebbal,70000,1400,Flat,Unfurnished,West,"Garden/Park, Main Road",3,1,Bachelors,Immediately
+Bangalore,2,Whitefield,35000,1160,Flat,Semi-Furnished,East,Garden/Park,2,1,Bachelors/Family,Immediately
+Bangalore,2,Electronic City,35000,800,Flat,Semi-Furnished,North - East,Garden/Park,2,1,Family,Immediately
+Bangalore,3,Whitefield,41000,1280,Flat,Semi-Furnished,North,Garden/Park,2,2,Family,Immediately
+Bangalore,2,Hebbal,52000,1150,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,2,Bachelors/Family,Immediately
+Bangalore,3,Sarjapur,85000,2400,Villa,Semi-Furnished,North,"Main Road, Garden/Park, Pool",4,3,Bachelors/Family,Immediately
+Bangalore,1,Whitefield,35000,500,Flat,Semi-Furnished,East,"Garden/Park, Pool",1,1,Bachelors,Immediately
+Bangalore,2,Varthur,52000,1242,Flat,Semi-Furnished,East,"Pool, Garden/Park, Main Road",2,1,Bachelors,Immediately
+Bangalore,2,Whitefield,52000,1204,Flat,Semi-Furnished,West,Garden/Park,2,1,Family,Immediately
+Bangalore,2,Sarjapur,58000,1350,Flat,Semi-Furnished,East,Garden/Park,2,2,Bachelors,Immediately
+Bangalore,2,Varthur,47000,880,Flat,Semi-Furnished,East,Garden/Park,2,1,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,65000,1800,Flat,Furnished,West,"Garden/Park, Pool, Main Road",3,2,Bachelors/Family,Immediately
+Bangalore,2,Whitefield,50000,877,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,2,Bachelors/Family,Immediately
+Bangalore,3,Bannerghatta Main Road,49000,1530,Flat,Semi-Furnished,West,"Pool, Garden/Park, Main Road",3,1,Bachelors,Immediately
+Bangalore,4,Sarjapur,60000,2500,Villa,Semi-Furnished,East,"Garden/Park, Pool",4,2,Bachelors/Family,Immediately
+Bangalore,3,Koramangala,130000,1800,Flat,Furnished,East,"Garden/Park, Pool, Main Road",3,3,Bachelors,Immediately
+Bangalore,1,Whitefield,25000,608,Flat,Furnished,North,Main Road,1,1,Bachelors/Family,Immediately
+Bangalore,3,Sarjapur,63000,1112,Flat,Semi-Furnished,East,Garden/Park,3,2,Bachelors,Immediately
+Bangalore,3,Whitefield,130000,2279,Flat,Semi-Furnished,East,"Garden/Park, Pool",3,1,Bachelors,Immediately
+Bangalore,3,Jayanagar,70000,2100,Flat,Semi-Furnished,East,"Pool, Garden/Park, Main Road",3,2,Bachelors,Immediately
+Bangalore,2,Whitefield,32000,980,Flat,Furnished,West,Main Road,2,2,Bachelors,Immediately
+Bangalore,3,Whitefield,64000,1920,Flat,Furnished,East,"Garden/Park, Pool",4,2,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,70000,1386,Flat,Semi-Furnished,West,Garden/Park,2,2,Bachelors/Family,From Feb '26
+Bangalore,3,Whitefield,90000,1860,Flat,Semi-Furnished,East,Garden/Park,3,2,Bachelors,Immediately
+Bangalore,3,Whitefield,68000,1700,Flat,Semi-Furnished,North - East,"Garden/Park, Pool, Main Road",3,1,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,73000,1085,Flat,Semi-Furnished,East,Garden/Park,3,1,Bachelors/Family,Immediately
+Bangalore,3,Rajajinagar,120000,2001,Flat,Semi-Furnished,East,"Main Road, Garden/Park, Pool",3,2,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,35000,1300,Flat,Semi-Furnished,East,Main Road,3,3,Bachelors,Immediately
+Bangalore,2,Whitefield,52000,800,Flat,Furnished,East,Garden/Park,2,1,Bachelors/Family,Immediately
+Bangalore,2,Whitefield,40000,800,Flat,Semi-Furnished,North,Garden/Park,2,2,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,70000,1396,Flat,Furnished,East,Garden/Park,2,2,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,70000,1316,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",3,2,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,95000,1450,Flat,Furnished,East,Garden/Park,2,1,Bachelors,Immediately
+Bangalore,2,Whitefield,60000,1100,Flat,Semi-Furnished,East,"Garden/Park, Main Road",2,1,Family,Immediately
+Bangalore,3,Sarjapur,65000,1088,Flat,Semi-Furnished,North,"Garden/Park, Pool, Main Road",3,2,Bachelors/Family,Immediately
+Bangalore,2,Sarjapur,22000,915,Flat,Semi-Furnished,North,"Garden/Park, Pool",2,1,Bachelors,Immediately
+Bangalore,2,Whitefield,85000,1200,Flat,Unfurnished,East,"Garden/Park, Main Road",2,3,Bachelors,Immediately
+Bangalore,2,Whitefield,36000,940,Flat,Semi-Furnished,North,Garden/Park,2,1,Bachelors,Immediately
+Bangalore,3,Hebbal,73000,1211,Flat,Semi-Furnished,East,Garden/Park,3,2,Bachelors/Family,Immediately
+Bangalore,2,Whitefield,39000,1007,Flat,Semi-Furnished,North,Garden/Park,2,2,Bachelors,Immediately
+Bangalore,2,Banashankari,35000,650,Flat,Semi-Furnished,West,"Garden/Park, Pool, Main Road",2,1,Family,Immediately
+Bangalore,1,Yelahanka,25000,706,Flat,Semi-Furnished,East,"Pool, Garden/Park",1,1,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,60000,1099,Flat,Furnished,East,"Pool, Garden/Park, Main Road",3,1,Bachelors,Immediately
+Bangalore,2,Sarjapur,30000,700,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors,Immediately
+Bangalore,3,Whitefield,35000,1396,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,2,Family,Immediately
+Bangalore,2,Whitefield,50000,900,Flat,Furnished,South,Garden/Park,2,2,Bachelors/Family,Immediately
+Bangalore,3,Koramangala,120000,2100,Flat,Semi-Furnished,North - East,"Pool, Garden/Park, Main Road",3,2,Bachelors,Immediately
+Bangalore,2,Whitefield,43500,789,Flat,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,60000,1500,Flat,Semi-Furnished,East,"Garden/Park, Pool",2,2,Family,From Feb '26
+Bangalore,3,Whitefield,63000,1650,Flat,Semi-Furnished,East,Main Road,3,3,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,32000,1431,Flat,Semi-Furnished,East,"Pool, Garden/Park, Main Road",3,1,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,66500,1936,Flat,Semi-Furnished,North,"Garden/Park, Pool, Main Road",3,2,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,60000,2100,Flat,Semi-Furnished,East,"Garden/Park, Main Road",3,3,Bachelors,Immediately
+Bangalore,2,Sarjapur,45000,998,Flat,Semi-Furnished,East,Garden/Park,2,1,Bachelors/Family,Immediately
+Bangalore,3,Kanakapura Road,45500,1280,Flat,Semi-Furnished,South,"Pool, Main Road",2,1,Bachelors,Immediately
+Bangalore,2,Whitefield,32000,1050,Flat,Semi-Furnished,East,Garden/Park,2,2,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,50000,1550,Flat,Semi-Furnished,West,Main Road,3,1,Bachelors/Family,Immediately
+Bangalore,1,Whitefield,15000,700,House,Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,60000,1800,Flat,Semi-Furnished,North - East,"Garden/Park, Pool, Main Road",3,2,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,30000,695,Flat,Semi-Furnished,East,Garden/Park,2,1,Bachelors,Immediately
+Bangalore,3,Whitefield,42000,1313,Flat,Unfurnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Bangalore,2,Whitefield,18000,700,Flat,Semi-Furnished,North,Garden/Park,2,1,Bachelors,Immediately
+Bangalore,1,Whitefield,14000,300,Flat,Semi-Furnished,East,Main Road,1,2,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,33000,1333,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors,Immediately
+Bangalore,3,Devanahalli,30000,1430,Flat,Furnished,East,Garden/Park,3,2,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,110000,1700,Villa,Furnished,North - East,Garden/Park,3,2,Family,Immediately
+Bangalore,3,Koramangala,120000,1700,Flat,Furnished,West,Main Road,3,2,Bachelors/Family,Immediately
+Bangalore,4,Hebbal,120000,1738,Flat,Semi-Furnished,North,Garden/Park,4,1,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,46000,1245,Flat,Semi-Furnished,North,Main Road,3,1,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,55000,1535,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",3,1,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,50000,989,Flat,Semi-Furnished,East,"Garden/Park, Pool",2,3,Bachelors,Immediately
+Bangalore,1,Whitefield,33000,782,Flat,Furnished,East,Garden/Park,1,1,Bachelors/Family,Immediately
+Bangalore,2,Whitefield,45000,1000,Flat,Semi-Furnished,East,Garden/Park,2,1,Family,Immediately
+Bangalore,3,Whitefield,90000,2500,Flat,Semi-Furnished,East,Garden/Park,3,1,Bachelors/Family,Immediately
+Bangalore,2,Whitefield,46000,690,Flat,Semi-Furnished,East,Garden/Park,2,1,Bachelors,Immediately
+Bangalore,3,Hebbal,150000,1000,Flat,Semi-Furnished,North - East,Garden/Park,3,3,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,60000,1586,Flat,Semi-Furnished,West,Garden/Park,3,2,Bachelors/Family,Immediately
+Bangalore,2,BTM Layout,23000,1000,Flat,Semi-Furnished,West,Main Road,2,1,Bachelors/Family,Immediately
+Bangalore,4,Whitefield,130000,2775,Villa,Semi-Furnished,North,"Garden/Park, Pool, Main Road",4,3,Bachelors,Immediately
+Bangalore,3,Bellandur,86000,1190,Flat,Semi-Furnished,East,Main Road,3,2,Family,Immediately
+Bangalore,4,Yelahanka,50000,2000,House,Unfurnished,East,Main Road,3,1,Bachelors/Family,From Mar '26
+Bangalore,1,HSR Layout,33000,650,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Bangalore,3,Bannerghatta Main Road,70000,1400,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",4,2,Bachelors,Immediately
+Bangalore,3,Whitefield,20000,950,Flat,Unfurnished,East,Garden/Park,2,1,Bachelors/Family,Immediately
+Bangalore,3,Whitefield,130000,2000,Flat,Unfurnished,East,Main Road,4,1,Bachelors/Family,Immediately
+Bangalore,3,Sarjapur,30000,1450,Flat,Unfurnished,North,"Garden/Park, Pool, Main Road",2,2,Family,Immediately
+Bangalore,3,Whitefield,72000,1400,Flat,Semi-Furnished,East,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Bangalore,2,Whitefield,40000,1100,Flat,Semi-Furnished,West,Garden/Park,2,2,Family,Immediately
+Bangalore,3,Whitefield,65000,1740,Flat,Semi-Furnished,North,"Pool, Garden/Park, Main Road",3,1,Bachelors,Immediately
+Bangalore,3,Whitefield,70000,1300,Flat,Semi-Furnished,East,Garden/Park,2,2,Family,Immediately
+Bangalore,3,Whitefield,85000,1700,Flat,Semi-Furnished,East,Main Road,3,1,Bachelors,Immediately
+Bangalore,3,Whitefield,150000,1927,Flat,Semi-Furnished,East,Pool,3,1,Bachelors,Immediately
+Bangalore,4,Sarjapur,90000,2204,Flat,Semi-Furnished,East,Garden/Park,4,2,Bachelors/Family,Immediately
+Bangalore,3,JP Nagar,50000,2000,Flat,Unfurnished,North,Garden/Park,3,3,Bachelors,Immediately
+Bangalore,3,Sarjapur,73000,1450,Flat,Semi-Furnished,East,"Garden/Park, Main Road",3,2,Bachelors,Immediately
+Bangalore,1,Sarjapur,30000,619,Flat,Semi-Furnished,West,Garden/Park,1,1,Bachelors/Family,From Feb '26
+Bangalore,3,Whitefield,50000,1991,Flat,Semi-Furnished,South,"Garden/Park, Pool, Main Road",3,3,Bachelors/Family,Immediately
+Bangalore,2,Whitefield,32000,970,Flat,Semi-Furnished,West,Garden/Park,2,1,Bachelors/Family,Immediately
+Bangalore,2,Sarjapur,70000,1100,Flat,Furnished,East,Garden/Park,2,1,Bachelors/Family,Immediately
+Bangalore,2,Bellandur,65000,1150,Flat,Semi-Furnished,North - East,"Garden/Park, Pool",2,1,Bachelors/Family,Immediately
+Mumbai,2,Powai,120000,777,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,1,Bachelors/Family,Immediately
+Mumbai,3,Wadala,90000,820,Flat,Semi-Furnished,East,"Garden/Park, Pool",3,1,Family,Immediately
+Mumbai,2,Goregaon,80000,775,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,1,Family,Immediately
+Mumbai,3,Andheri,110000,1026,Flat,Furnished,North,Main Road,2,1,Bachelors/Family,Immediately
+Mumbai,3,Wadala,150000,1321,Flat,Semi-Furnished,North - East,"Garden/Park, Pool, Main Road",2,3,Bachelors,Immediately
+Mumbai,3,Andheri,110000,1270,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors/Family,Immediately
+Mumbai,2,Powai,120000,777,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,1,Bachelors,Immediately
+Mumbai,3,Andheri,150000,1322,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",3,3,Family,Immediately
+Mumbai,2,Andheri,80000,670,Flat,Unfurnished,East,Main Road,2,1,Family,Immediately
+Mumbai,4,Chembur,150000,1600,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",4,1,Bachelors,Immediately
+Mumbai,2,Goregaon,60000,620,Flat,Unfurnished,West,Main Road,2,1,Family,Immediately
+Mumbai,3,Malad,110000,1230,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",3,3,Bachelors,Immediately
+Mumbai,3,Wadala,150000,1080,Flat,Semi-Furnished,West,"Garden/Park, Pool, Main Road",3,1,Family,Immediately
+Mumbai,2,Wadala,130000,955,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,3,Bachelors/Family,Immediately
+Mumbai,2,Andheri,70500,753,Flat,Semi-Furnished,East,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Mumbai,2,Kurla,65000,700,Flat,Furnished,East,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Mumbai,2,Andheri,120000,950,Flat,Furnished,East,"Pool, Garden/Park",2,3,Bachelors,Immediately
+Mumbai,2,Chembur,75000,675,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",2,1,Bachelors,Immediately
+Mumbai,1,Chembur,50000,498,Flat,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Mumbai,3,Kandivali East,90000,1250,Flat,Unfurnished,East,Pool,3,3,Family,Immediately
+Mumbai,3,Andheri,150000,1000,Flat,Semi-Furnished,East,Garden/Park,3,1,Bachelors/Family,Immediately
+Mumbai,2,Andheri,87500,776,Flat,Furnished,North,Main Road,2,1,Family,Immediately
+Mumbai,1,Andheri,46000,450,Flat,Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Mumbai,2,Andheri,150000,790,Flat,Semi-Furnished,West,"Garden/Park, Pool, Main Road",2,1,Family,Immediately
+Mumbai,1,Andheri,45000,500,Flat,Unfurnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Mumbai,1,Andheri,55000,480,Flat,Furnished,East,Main Road,2,1,Bachelors,From Jan '26
+Mumbai,3,Powai,130000,900,Flat,Semi-Furnished,East,Garden/Park,3,1,Bachelors/Family,Immediately
+Mumbai,3,Chembur,140000,1100,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",3,1,Bachelors,Immediately
+Mumbai,3,Andheri,130000,849,Flat,Unfurnished,East,Main Road,3,1,Bachelors,Immediately
+Mumbai,2,Ghatkopar,60000,635,Flat,Unfurnished,East,Main Road,2,1,Family,Immediately
+Mumbai,3,Kandivali East,80000,1070,Flat,Unfurnished,North,"Garden/Park, Main Road",3,1,Bachelors/Family,Immediately
+Mumbai,1,Powai,43500,480,Flat,Furnished,East,Garden/Park,1,1,Bachelors/Family,Immediately
+Mumbai,2,Powai,85000,750,Flat,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Mumbai,3,Goregaon,90000,1084,Flat,Semi-Furnished,East,Garden/Park,3,1,Bachelors/Family,Immediately
+Mumbai,3,Kandivali East,82000,1132,Flat,Semi-Furnished,East,"Main Road, Pool, Garden/Park",3,1,Bachelors,Immediately
+Mumbai,2,Malad,65000,750,Flat,Unfurnished,North,"Garden/Park, Pool, Main Road",2,3,Bachelors,Immediately
+Mumbai,3,Powai,120000,1010,Flat,Furnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Mumbai,2,Powai,70000,700,Flat,Unfurnished,North - East,Garden/Park,2,3,Family,Immediately
+Mumbai,3,Powai,130000,989,Flat,Semi-Furnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Mumbai,3,Andheri,120000,1100,Flat,Semi-Furnished,East,Garden/Park,3,1,Bachelors/Family,Immediately
+Mumbai,3,Andheri,130000,1080,Flat,Furnished,East,"Garden/Park, Pool, Main Road",3,1,Bachelors,Immediately
+Mumbai,2,Goregaon,65000,685,Flat,Unfurnished,East,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Mumbai,3,Chembur,130000,1160,Flat,Semi-Furnished,East,Main Road,3,1,Family,Immediately
+Mumbai,2,Mulund,62000,771,Flat,Semi-Furnished,East,Garden/Park,2,1,Bachelors/Family,Immediately
+Mumbai,2,Kandivali East,44000,600,Flat,Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Mumbai,3,Powai,130000,1050,Flat,Furnished,East,"Garden/Park, Pool, Main Road",3,3,Bachelors/Family,Immediately
+Mumbai,2,Bandra,85000,700,Flat,Semi-Furnished,East,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Mumbai,2,Andheri,90000,720,Flat,Furnished,East,Main Road,2,1,Family,Immediately
+Mumbai,3,Powai,110000,950,Flat,Semi-Furnished,North,"Main Road, Garden/Park, Pool",3,1,Family,Immediately
+Mumbai,3,Mulund,74000,1000,Flat,Semi-Furnished,East,"Garden/Park, Pool",2,3,Bachelors,Immediately
+Mumbai,2,Andheri,70000,795,Flat,Furnished,East,"Garden/Park, Main Road",2,2,Bachelors/Family,Immediately
+Mumbai,1,Malad,32000,625,Flat,Unfurnished,North,Main Road,2,1,Bachelors,Immediately
+Mumbai,2,Goregaon,62000,685,Flat,Semi-Furnished,North - East,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Mumbai,3,Andheri,100000,1129,Flat,Semi-Furnished,East,Garden/Park,2,1,Bachelors/Family,Immediately
+Mumbai,1,Andheri,42000,443,Flat,Semi-Furnished,North - East,Main Road,1,1,Bachelors/Family,Immediately
+Mumbai,1,Andheri,51000,368,Flat,Unfurnished,East,Main Road,2,1,Bachelors,Immediately
+Mumbai,2,Bandra,99000,609,Flat,Furnished,East,"Pool, Garden/Park, Main Road",2,3,Bachelors/Family,Immediately
+Mumbai,3,Ghatkopar,140000,1400,Flat,Furnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Mumbai,3,Andheri,72000,838,Flat,Semi-Furnished,East,Main Road,2,1,Family,Immediately
+Mumbai,2,Malad,72000,900,Flat,Semi-Furnished,South,Main Road,3,1,Bachelors,Immediately
+Mumbai,3,Andheri,78000,850,Flat,Furnished,East,"Garden/Park, Pool, Main Road",3,1,Bachelors,Immediately
+Mumbai,2,Chembur,69000,700,Flat,Semi-Furnished,North - East,Garden/Park,2,1,Bachelors/Family,Immediately
+Mumbai,3,Ghatkopar,110000,1080,Flat,Unfurnished,North - West,"Garden/Park, Pool, Main Road",2,1,Bachelors/Family,Immediately
+Mumbai,2,Dadar,120000,750,Flat,Furnished,East,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Mumbai,1,Andheri,25000,600,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors,Immediately
+Mumbai,2,Andheri,35000,650,Flat,Semi-Furnished,East,Garden/Park,2,1,Family,Immediately
+Mumbai,2,Powai,76000,634,Flat,Semi-Furnished,North - East,Garden/Park,2,1,Bachelors,Immediately
+Mumbai,3,Kandivali East,72000,1000,Flat,Semi-Furnished,North - East,"Garden/Park, Main Road",3,1,Bachelors/Family,Immediately
+Mumbai,2,Powai,80000,635,Flat,Semi-Furnished,East,Garden/Park,2,1,Bachelors/Family,Immediately
+Mumbai,3,Mulund,75000,960,Flat,Unfurnished,East,Garden/Park,3,1,Bachelors,Immediately
+Mumbai,2,Malad,70000,853,Flat,Unfurnished,East,Garden/Park,2,2,Bachelors/Family,Immediately
+Mumbai,3,Andheri,80000,1240,Flat,Semi-Furnished,East,Main Road,3,1,Family,Immediately
+Mumbai,2,Wadala,75000,710,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",2,1,Bachelors/Family,Immediately
+Mumbai,1,Andheri,37000,420,Flat,Furnished,East,"Garden/Park, Main Road",2,1,Family,Immediately
+Mumbai,2,Andheri,72000,650,Flat,Semi-Furnished,East,"Garden/Park, Main Road",2,1,Bachelors,Immediately
+Mumbai,3,Andheri,130000,1076,Flat,Semi-Furnished,South,"Garden/Park, Pool, Main Road",3,1,Bachelors/Family,Immediately
+Mumbai,2,Andheri,80000,850,Flat,Unfurnished,East,Main Road,2,1,Family,Immediately
+Mumbai,3,Wadala,140000,972,Flat,Semi-Furnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Mumbai,2,Andheri,140000,850,Flat,Unfurnished,South,"Garden/Park, Pool, Main Road",2,1,Family,Immediately
+Mumbai,1,Andheri,48000,425,Flat,Unfurnished,East,"Garden/Park, Main Road",2,1,Bachelors,Immediately
+Mumbai,3,Kandivali East,83000,1052,Flat,Semi-Furnished,East,"Garden/Park, Main Road",3,1,Bachelors/Family,Immediately
+Mumbai,3,Andheri,93000,1129,Flat,Semi-Furnished,North - West,Garden/Park,3,1,Bachelors/Family,Immediately
+Mumbai,2,Andheri,130000,730,Flat,Semi-Furnished,North,Garden/Park,2,1,Bachelors/Family,Immediately
+Mumbai,2,Ghatkopar,59000,710,Flat,Semi-Furnished,East,Garden/Park,2,1,Bachelors/Family,Immediately
+Mumbai,3,Goregaon,100000,1084,Flat,Furnished,North - West,Main Road,3,1,Bachelors/Family,Immediately
+Mumbai,3,Andheri,110000,1600,Flat,Furnished,East,Main Road,4,1,Family,Immediately
+Mumbai,2,Andheri,47000,650,Flat,Unfurnished,East,"Garden/Park, Main Road",2,1,Family,Immediately
+Mumbai,3,Lower Parel,150000,1400,Flat,Unfurnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Mumbai,2,Andheri,50000,547,Flat,Unfurnished,East,Main Road,2,1,Family,Immediately
+Mumbai,2,Andheri,120000,780,Flat,Semi-Furnished,North - East,Garden/Park,2,1,Family,Immediately
+Mumbai,3,Andheri,95000,1100,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",3,1,Family,Immediately
+Mumbai,3,Andheri,140000,1000,Flat,Furnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Mumbai,2,Andheri,83000,700,Flat,Furnished,East,Main Road,2,1,Bachelors,Immediately
+Mumbai,2,Andheri,36000,635,Flat,Semi-Furnished,South,"Garden/Park, Main Road",2,2,Family,Immediately
+Mumbai,2,Andheri,150000,740,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors,Immediately
+Mumbai,2,Ghatkopar,100000,730,Flat,Furnished,East,Garden/Park,2,1,Bachelors/Family,Immediately
+Mumbai,2,Kandivali East,55000,600,Flat,Semi-Furnished,North - East,"Garden/Park, Main Road",2,1,Family,Immediately
+Mumbai,3,Andheri,75000,1020,Flat,Semi-Furnished,East,"Garden/Park, Main Road",3,1,Bachelors/Family,Immediately
+Mumbai,2,Andheri,34000,588,Flat,Unfurnished,East,"Main Road, Garden/Park",2,1,Bachelors,From Feb '26
+Mumbai,1,Andheri,33000,371,Flat,Unfurnished,East,Main Road,2,1,Bachelors,Immediately
+Mumbai,3,Andheri,80000,1121,Flat,Semi-Furnished,East,"Garden/Park, Pool",3,1,Family,Immediately
+Mumbai,3,Andheri,85000,900,Flat,Semi-Furnished,East,Garden/Park,3,1,Bachelors/Family,Immediately
+Mumbai,4,Kandivali East,89000,1250,Flat,Semi-Furnished,North - East,"Garden/Park, Pool, Main Road",3,1,Bachelors/Family,Immediately
+Mumbai,3,Ghatkopar,130000,1046,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Mumbai,3,Andheri,95000,900,Flat,Semi-Furnished,North,Main Road,3,1,Family,Immediately
+Mumbai,2,Andheri,60000,700,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors,Immediately
+Mumbai,1,Borivali,34000,420,Flat,Furnished,West,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Mumbai,3,Dadar,160000,1350,Flat,Unfurnished,North - East,Garden/Park,3,2,Bachelors,Immediately
+Mumbai,2,Borivali,50000,600,Flat,Unfurnished,East,Main Road,2,1,Family,Immediately
+Mumbai,2,Andheri,130000,843,Flat,Semi-Furnished,North - West,"Pool, Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Mumbai,3,Andheri,95000,1012,Flat,Unfurnished,East,Garden/Park,3,1,Bachelors/Family,Immediately
+Mumbai,2,Andheri,95000,800,Flat,Semi-Furnished,West,Garden/Park,2,1,Bachelors/Family,Immediately
+Mumbai,2,Andheri,55000,676,Flat,Furnished,North - East,Main Road,2,1,Bachelors/Family,Immediately
+Mumbai,2,Goregaon,45000,550,Flat,Semi-Furnished,East,"Garden/Park, Main Road",2,1,Family,Immediately
+Mumbai,2,Mulund,40000,600,Flat,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Mumbai,1,Kandivali,32000,400,Flat,Unfurnished,North,Main Road,2,1,Bachelors/Family,Immediately
+Mumbai,3,Andheri,46000,890,Flat,Semi-Furnished,North - East,"Garden/Park, Pool, Main Road",3,1,Family,Immediately
+Mumbai,3,Mulund,60000,865,Flat,Semi-Furnished,East,Main Road,3,1,Bachelors,Immediately
+Mumbai,2,Mulund,60000,780,Flat,Unfurnished,South - East,Main Road,2,1,Bachelors,Immediately
+Mumbai,1,Powai,37000,450,Flat,Semi-Furnished,North - East,Main Road,1,1,Bachelors/Family,Immediately
+Mumbai,3,Andheri,120000,1017,Flat,Unfurnished,West,"Garden/Park, Pool, Main Road",3,1,Bachelors/Family,Immediately
+Mumbai,2,Malad,51000,750,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors,Immediately
+Mumbai,1,Andheri,60000,400,Flat,Semi-Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Mumbai,1,Andheri,72000,480,Flat,Semi-Furnished,East,Garden/Park,1,1,Bachelors/Family,Immediately
+Mumbai,2,Andheri,50000,700,Flat,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Mumbai,3,Kandivali East,90000,1295,Flat,Unfurnished,East,"Pool, Garden/Park, Main Road",3,1,Bachelors,Immediately
+Mumbai,2,Andheri,42000,650,Flat,Unfurnished,West,Garden/Park,2,1,Family,Immediately
+Mumbai,3,Andheri,85000,780,Flat,Unfurnished,East,Main Road,3,1,Family,Immediately
+Mumbai,2,Andheri,100000,700,Flat,Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Mumbai,2,Andheri,70000,795,Flat,Semi-Furnished,South,"Garden/Park, Main Road",2,3,Bachelors/Family,Immediately
+Mumbai,3,Mulund,72500,1018,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",3,1,Bachelors/Family,Immediately
+Mumbai,2,Kandivali East,60000,711,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,1,Family,Immediately
+Mumbai,2,Mulund,60000,718,Flat,Unfurnished,North - East,"Garden/Park, Pool, Main Road",2,1,Family,Immediately
+Mumbai,3,Powai,120000,1000,Flat,Semi-Furnished,North - West,"Garden/Park, Pool, Main Road",3,1,Bachelors/Family,Immediately
+Mumbai,2,Andheri,110000,1000,Flat,Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Mumbai,2,Andheri,65000,540,Flat,Furnished,North - East,Main Road,2,1,Bachelors,Immediately
+Mumbai,3,Goregaon,100000,1075,Flat,Furnished,East,Garden/Park,3,1,Bachelors,Immediately
+Mumbai,2,Chembur,75000,700,Flat,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Mumbai,3,Andheri,120000,1250,Flat,Furnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Mumbai,3,Kandivali East,140000,1060,Flat,Semi-Furnished,East,"Garden/Park, Pool",3,1,Family,Immediately
+Mumbai,2,Kandivali East,66000,844,Flat,Semi-Furnished,North,Garden/Park,2,1,Bachelors,Immediately
+Mumbai,3,Chembur,130000,1350,Flat,Unfurnished,East,Main Road,3,1,Family,Immediately
+Mumbai,4,Andheri,140000,1200,Flat,Semi-Furnished,North - East,"Garden/Park, Pool, Main Road",4,1,Family,Immediately
+Mumbai,2,Kandivali East,69000,850,Flat,Unfurnished,South - East,Pool,2,2,Family,Immediately
+Mumbai,2,Andheri,75000,614,Flat,Unfurnished,East,Pool,2,1,Bachelors/Family,Immediately
+Mumbai,1,Kandivali,38000,430,Flat,Semi-Furnished,East,"Garden/Park, Main Road",2,1,Bachelors,Immediately
+Mumbai,2,Kandivali East,45000,650,Flat,Furnished,East,Main Road,2,1,Family,Immediately
+Mumbai,4,Andheri,170000,1470,Flat,Semi-Furnished,North - East,Main Road,4,2,Bachelors/Family,Immediately
+Mumbai,3,Chembur,140000,1300,Flat,Unfurnished,North - East,Main Road,3,1,Bachelors,Immediately
+Mumbai,3,Mulund,130000,1440,Flat,Semi-Furnished,East,Main Road,3,1,Family,Immediately
+Mumbai,2,Andheri,62000,771,Flat,Semi-Furnished,East,Garden/Park,2,1,Family,Immediately
+Mumbai,2,Powai,85000,760,Flat,Furnished,North - East,"Garden/Park, Pool, Main Road",2,1,Bachelors/Family,Immediately
+Mumbai,2,Goregaon,70000,715,Flat,Unfurnished,East,Main Road,2,1,Bachelors,Immediately
+Mumbai,2,Chembur,75000,773,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,1,Bachelors,Immediately
+Mumbai,2,Wadala,140000,955,Flat,Unfurnished,East,"Garden/Park, Pool",2,3,Bachelors/Family,Immediately
+Mumbai,2,Powai,98000,750,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",2,1,Bachelors/Family,Immediately
+Mumbai,3,Malad,90000,1110,Flat,Unfurnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Mumbai,3,Andheri,70000,855,Flat,Furnished,East,Garden/Park,3,1,Bachelors/Family,Immediately
+Mumbai,2,Chembur,76000,900,Flat,Furnished,East,Main Road,2,2,Bachelors,Immediately
+Mumbai,2,Andheri,70000,619,Flat,Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Mumbai,3,Kandivali East,75000,1270,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",3,2,Bachelors/Family,Immediately
+Mumbai,2,Goregaon,60000,579,Flat,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Mumbai,2,Borivali,49000,650,Flat,Furnished,East,"Pool, Garden/Park, Main Road",2,1,Bachelors,Immediately
+Mumbai,3,Thakur Village,75000,890,Flat,Unfurnished,North - East,"Garden/Park, Main Road",2,2,Family,Immediately
+Mumbai,1,Andheri,14500,300,Flat,Unfurnished,East,"Garden/Park, Main Road",1,1,Bachelors,Immediately
+Mumbai,2,Kandivali East,48000,650,Flat,Furnished,North,Garden/Park,2,1,Family,Immediately
+Mumbai,3,Chembur,85000,1000,Flat,Unfurnished,East,Main Road,3,2,Family,Immediately
+Mumbai,3,Mulund,80000,912,Flat,Semi-Furnished,East,"Garden/Park, Main Road",3,1,Bachelors/Family,Immediately
+Mumbai,1,Wadala,61000,570,Flat,Furnished,East,"Main Road, Garden/Park",2,1,Bachelors,Immediately
+Mumbai,2,Borivali,68000,734,Flat,Unfurnished,East,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Mumbai,2,Kandivali East,59000,763,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",2,1,Family,Immediately
+Mumbai,2,Goregaon,75000,647,Flat,Unfurnished,East,"Pool, Garden/Park, Main Road",2,1,Bachelors,Immediately
+Mumbai,3,Andheri,97999,840,Flat,Furnished,North,Main Road,3,3,Bachelors/Family,Immediately
+Mumbai,3,Kandivali East,72000,1173,Flat,Semi-Furnished,North,"Garden/Park, Main Road",3,1,Family,Immediately
+Mumbai,2,Goregaon,70000,788,Flat,Semi-Furnished,East,"Garden/Park, Main Road",2,2,Bachelors/Family,Immediately
+Mumbai,3,Andheri,95000,1050,Flat,Semi-Furnished,East,Garden/Park,3,1,Bachelors/Family,Immediately
+Mumbai,2,Mulund,55000,770,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Mumbai,2,Andheri,57000,726,Flat,Semi-Furnished,East,"Garden/Park, Main Road",2,1,Bachelors,From Feb '26
+Mumbai,2,Goregaon,75000,700,Flat,Semi-Furnished,East,"Pool, Main Road",2,3,Bachelors,Immediately
+Mumbai,2,Andheri,70000,600,Flat,Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Mumbai,1,Andheri,52000,560,Flat,Semi-Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Mumbai,1,Kurla,53000,650,Flat,Furnished,West,Main Road,2,1,Bachelors/Family,Immediately
+Mumbai,2,Borivali,45000,750,Flat,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Mumbai,2,Ghatkopar,65000,672,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Mumbai,2,Mulund,40000,630,Flat,Unfurnished,East,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Mumbai,2,Andheri,65000,750,Flat,Furnished,East,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Mumbai,1,Malad,25000,250,Flat,Semi-Furnished,West,Main Road,1,1,Bachelors/Family,Immediately
+Mumbai,2,Andheri,90000,765,Flat,Furnished,East,Main Road,2,1,Bachelors/Family,From Apr '26
+Mumbai,2,Mulund,49999,850,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Mumbai,2,Powai,78000,950,Flat,Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Mumbai,3,Andheri,150000,1240,Flat,Furnished,East,Garden/Park,3,1,Bachelors/Family,Immediately
+Mumbai,3,Mulund,92000,1296,Flat,Semi-Furnished,West,Garden/Park,3,1,Bachelors,Immediately
+Mumbai,3,Goregaon,90000,1100,Flat,Semi-Furnished,South -West,Garden/Park,3,1,Bachelors/Family,From Mar '26
+Mumbai,2,Andheri,45000,700,Flat,Semi-Furnished,North,Garden/Park,2,1,Family,Immediately
+Mumbai,2,Andheri,150000,710,Flat,Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Mumbai,2,Goregaon,79000,885,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors,Immediately
+Mumbai,1,Andheri,34000,590,Flat,Semi-Furnished,South,Main Road,1,1,Bachelors/Family,Immediately
+Mumbai,1,Kandivali East,25000,400,Flat,Semi-Furnished,North - East,Garden/Park,1,1,Bachelors/Family,Immediately
+Mumbai,2,Goregaon,70000,675,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,From Feb '26
+Mumbai,2,Kandivali,50000,1100,Flat,Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Mumbai,3,Kandivali East,45000,1200,Flat,Unfurnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Mumbai,2,Andheri,90000,645,Flat,Furnished,North - East,Garden/Park,2,1,Bachelors/Family,Immediately
+Mumbai,1,Mulund,15000,750,Flat,Furnished,North - West,"Pool, Garden/Park, Main Road",1,1,Bachelors,Immediately
+Mumbai,2,Andheri,50000,800,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Mumbai,2,Andheri,65000,900,Flat,Semi-Furnished,North,Main Road,2,1,Bachelors/Family,Immediately
+Mumbai,3,Chembur,90000,1020,Flat,Semi-Furnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Mumbai,4,Andheri,120000,1700,Flat,Furnished,East,Main Road,4,2,Bachelors/Family,Immediately
+Mumbai,3,Chembur,140000,1250,Flat,Semi-Furnished,East,"Garden/Park, Main Road",4,1,Bachelors/Family,Immediately
+Mumbai,2,Andheri,80000,850,Flat,Unfurnished,East,Main Road,2,3,Bachelors/Family,Immediately
+Mumbai,4,Chembur,100000,1100,Flat,Furnished,East,Main Road,3,1,Bachelors,Immediately
+Mumbai,2,Andheri,62000,700,Flat,Unfurnished,North,Main Road,2,1,Bachelors,Immediately
+Mumbai,2,Andheri,17000,550,Flat,Unfurnished,East,"Garden/Park, Main Road",2,3,Bachelors,Immediately
+Mumbai,2,Powai,50000,650,Flat,Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Mumbai,2,Andheri,65000,650,Flat,Furnished,East,Main Road,2,2,Bachelors,Immediately
+Mumbai,3,Wadala,150000,1900,Flat,Semi-Furnished,East,"Pool, Main Road",3,3,Bachelors,Immediately
+Pune,2,Hinjewadi,23006,910,Flat,Semi-Furnished,East,"Pool, Garden/Park, Main Road",2,1,Bachelors,Immediately
+Pune,2,Kharadi,25000,580,Flat,Furnished,East,Main Road,2,1,Family,Immediately
+Pune,3,Viman Nagar,70000,1000,Flat,Unfurnished,East,Garden/Park,3,1,Bachelors/Family,Immediately
+Pune,3,Kharadi,45000,1650,Flat,Semi-Furnished,East,Main Road,3,3,Family,From Feb '26
+Pune,2,Kharadi,36000,740,Flat,Unfurnished,East,"Garden/Park, Main Road",2,1,Family,Immediately
+Pune,2,Hinjewadi,22000,630,Flat,Unfurnished,East,"Garden/Park, Pool",2,1,Bachelors/Family,Immediately
+Pune,2,Hinjewadi,21000,800,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",2,2,Bachelors/Family,Immediately
+Pune,2,Kharadi,45000,1000,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,1,Bachelors,Immediately
+Pune,2,Hinjewadi,28000,850,Flat,Furnished,West,"Garden/Park, Pool, Main Road",2,2,Bachelors/Family,Immediately
+Pune,2,Kharadi,27000,950,Flat,Semi-Furnished,East,Main Road,2,2,Family,Immediately
+Pune,1,Hinjewadi,25000,545,Flat,Unfurnished,East,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Pune,3,Viman Nagar,160000,2000,Flat,Furnished,East,"Garden/Park, Pool",3,1,Bachelors/Family,Immediately
+Pune,3,Kalyani Nagar,70000,1540,Flat,Furnished,East,"Pool, Garden/Park, Main Road",3,2,Bachelors/Family,Immediately
+Pune,2,Hadapsar,25000,602,Flat,Semi-Furnished,North - East,"Pool, Garden/Park, Main Road",2,2,Bachelors,Immediately
+Pune,2,Kharadi,28000,900,Flat,Semi-Furnished,East,Garden/Park,2,2,Bachelors,Immediately
+Pune,2,Kharadi,27000,950,Flat,Unfurnished,East,"Pool, Garden/Park, Main Road",2,2,Bachelors/Family,Immediately
+Pune,2,Kharadi,35000,756,Flat,Unfurnished,East,"Garden/Park, Main Road",2,2,Bachelors/Family,Immediately
+Pune,3,Baner,47000,1150,Flat,Semi-Furnished,East,Main Road,3,1,Family,Immediately
+Pune,2,Kharadi,36000,794,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,2,Bachelors/Family,Immediately
+Pune,3,Kharadi,30000,1100,Flat,Semi-Furnished,South - East,Garden/Park,3,1,Family,Immediately
+Pune,4,Kharadi,75000,1650,Flat,Unfurnished,East,Main Road,4,2,Family,Immediately
+Pune,3,Pimpri,25000,927,Flat,Semi-Furnished,East,"Garden/Park, Main Road",2,2,Family,Immediately
+Pune,4,Baner,150000,2730,Flat,Semi-Furnished,East,Garden/Park,4,2,Bachelors/Family,Immediately
+Pune,2,Baner,45000,1150,Flat,Furnished,East,Pool,2,3,Family,Immediately
+Pune,2,Wagholi,31000,850,Flat,Furnished,East,"Garden/Park, Main Road",2,2,Bachelors/Family,Immediately
+Pune,3,Kalyani Nagar,60000,1400,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",3,2,Bachelors,Immediately
+Pune,3,Mundhwa,36500,1150,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors/Family,Immediately
+Pune,2,Hinjewadi,21000,650,Flat,Semi-Furnished,North - East,Main Road,2,1,Bachelors/Family,Immediately
+Pune,2,Kharadi,47000,1000,Flat,Semi-Furnished,North,Main Road,2,2,Bachelors,Immediately
+Pune,3,Kharadi,26000,982,Flat,Unfurnished,East,Main Road,3,2,Family,Immediately
+Pune,2,Pimpri,23800,800,Flat,Semi-Furnished,East,Garden/Park,2,2,Bachelors/Family,Immediately
+Pune,3,Kharadi,27000,950,Flat,Semi-Furnished,East,Garden/Park,3,2,Bachelors,Immediately
+Pune,3,Balewadi,42000,1220,Flat,Unfurnished,East,Garden/Park,3,2,Bachelors/Family,Immediately
+Pune,2,Kharadi,45000,1016,Flat,Furnished,East,Main Road,2,1,Bachelors/Family,From Feb '26
+Pune,3,Kharadi,28000,1562,Flat,Semi-Furnished,East,"Pool, Garden/Park, Main Road",3,3,Bachelors,Immediately
+Pune,2,Kharadi,30000,1156,Flat,Furnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Pune,3,Kharadi,65000,1500,Flat,Semi-Furnished,East,Garden/Park,3,1,Bachelors/Family,Immediately
+Pune,3,Kharadi,80000,1500,Flat,Unfurnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Pune,2,T Nagar,32000,800,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,2,Bachelors/Family,Immediately
+Pune,2,Viman Nagar,52000,1000,Flat,Furnished,East,"Pool, Garden/Park, Main Road",2,2,Bachelors,Immediately
+Pune,2,Balewadi,40000,860,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,2,Bachelors,Immediately
+Pune,3,Kharadi,52000,1300,Flat,Semi-Furnished,East,Garden/Park,3,2,Bachelors/Family,Immediately
+Pune,2,Wagholi,45000,1080,Flat,Furnished,East,"Pool, Garden/Park, Main Road",2,1,Bachelors,Immediately
+Pune,2,Kharadi,38000,815,Flat,Semi-Furnished,North,"Pool, Garden/Park, Main Road",2,2,Bachelors/Family,Immediately
+Pune,2,Kharadi,26000,950,Flat,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Pune,3,Undri,46000,1450,Flat,Semi-Furnished,East,Pool,4,2,Bachelors,From Jan '27
+Pune,2,Baner,35000,700,Flat,Semi-Furnished,East,Garden/Park,2,1,Bachelors,Immediately
+Pune,3,Hadapsar,55000,1230,Flat,Semi-Furnished,North,Main Road,3,1,Bachelors/Family,Immediately
+Pune,1,Kharadi,25000,440,Flat,Semi-Furnished,North - East,"Garden/Park, Pool, Main Road",1,1,Bachelors/Family,Immediately
+Pune,3,Undri,20000,1000,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",3,2,Bachelors,Immediately
+Pune,2,Pimpri,25000,855,Flat,Unfurnished,East,Garden/Park,2,1,Family,Immediately
+Pune,2,Balewadi,34000,730,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Pune,1,Kharadi,25000,550,Flat,Semi-Furnished,North - East,Main Road,1,1,Family,Immediately
+Pune,3,Kharadi,79000,1700,Flat,Furnished,East,"Garden/Park, Pool, Main Road",3,3,Bachelors,Immediately
+Pune,2,Kharadi,35000,950,Flat,Unfurnished,East,Garden/Park,2,2,Bachelors/Family,Immediately
+Pune,2,Mundhwa,30000,1020,Flat,Semi-Furnished,East,Main Road,2,2,Family,Immediately
+Pune,3,Kharadi,45000,1800,Flat,Unfurnished,East,Main Road,3,1,Family,Immediately
+Pune,1,Hadapsar,18000,650,Flat,Semi-Furnished,East,Garden/Park,1,1,Bachelors/Family,Immediately
+Pune,3,Kharadi,80000,1450,Flat,Semi-Furnished,East,"Pool, Garden/Park, Main Road",3,2,Bachelors/Family,Immediately
+Pune,2,Viman Nagar,37000,850,Flat,Furnished,East,Garden/Park,2,2,Bachelors/Family,Immediately
+Pune,3,Kalyani Nagar,70000,1350,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors/Family,Immediately
+Pune,3,Kharadi,45000,1675,Flat,Furnished,East,Pool,3,2,Bachelors,Immediately
+Pune,2,Kharadi,26000,763,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Pune,3,Kharadi,130000,2200,Flat,Furnished,East,"Garden/Park, Pool, Main Road",3,2,Bachelors/Family,Immediately
+Pune,3,Kharadi,56000,1534,Flat,Unfurnished,East,"Garden/Park, Main Road",3,3,Bachelors/Family,Immediately
+Pune,3,Wagholi,30000,1130,Flat,Unfurnished,East,Garden/Park,3,2,Bachelors/Family,Immediately
+Pune,3,Kharadi,85000,1591,Flat,Furnished,East,Garden/Park,3,1,Bachelors/Family,From Feb '26
+Pune,3,Hinjewadi,30000,1150,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",3,2,Bachelors,Immediately
+Pune,2,Kharadi,33000,800,Flat,Furnished,East,"Pool, Garden/Park, Main Road",2,2,Bachelors/Family,Immediately
+Pune,3,Bibwewadi,30000,900,Flat,Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Pune,3,Hinjewadi,26000,950,Flat,Semi-Furnished,East,Garden/Park,2,2,Bachelors,Immediately
+Pune,1,Kharadi,24000,450,Flat,Semi-Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Pune,3,Wagholi,35000,2000,Villa,Semi-Furnished,North,Garden/Park,3,1,Bachelors,Immediately
+Pune,2,Wakad,27000,800,Flat,Unfurnished,East,Garden/Park,2,2,Bachelors/Family,From Feb '26
+Pune,2,Pimpri,35000,750,Flat,Unfurnished,East,Garden/Park,2,1,Family,Immediately
+Pune,2,Kharadi,35000,800,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,2,Bachelors/Family,Immediately
+Pune,3,Kharadi,33000,956,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,2,Family,Immediately
+Pune,2,Koregaon Park,60000,650,Flat,Furnished,East,Garden/Park,2,2,Bachelors/Family,Immediately
+Pune,2,Kothrud,40000,1000,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Pune,3,Kharadi,60000,1250,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",3,2,Bachelors/Family,Immediately
+Pune,2,Baner,45000,850,House,Furnished,East,"Garden/Park, Pool, Main Road",2,2,Bachelors,Immediately
+Pune,3,Hadapsar,70000,2000,Flat,Semi-Furnished,East,"Garden/Park, Pool",3,3,Family,Immediately
+Pune,2,Kothrud,34000,1000,Flat,Furnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Pune,2,Hadapsar,40000,900,Flat,Furnished,East,"Garden/Park, Pool, Main Road",2,1,Bachelors,Immediately
+Pune,3,Mundhwa,55000,1560,Flat,Unfurnished,West,Garden/Park,3,2,Bachelors,Immediately
+Pune,3,Kharadi,99000,1750,Flat,Unfurnished,East,"Pool, Garden/Park",4,2,Bachelors,Immediately
+Pune,2,Kharadi,25000,1042,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Pune,3,Hinjewadi,29900,1200,Flat,Semi-Furnished,East,Garden/Park,3,3,Bachelors/Family,Immediately
+Pune,3,Hinjewadi,47000,1335,Flat,Unfurnished,East,"Pool, Garden/Park",3,2,Bachelors,Immediately
+Pune,1,Kharadi,26000,480,Flat,Unfurnished,East,Garden/Park,2,1,Bachelors/Family,Immediately
+Pune,3,T Nagar,40000,1070,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors/Family,From Feb '26
+Pune,3,Kharadi,75000,1750,Flat,Semi-Furnished,East,Garden/Park,3,2,Family,Immediately
+Pune,3,Kharadi,45000,1050,Flat,Unfurnished,East,"Garden/Park, Main Road",3,2,Bachelors/Family,Immediately
+Pune,3,Kharadi,87000,2245,Flat,Furnished,East,"Garden/Park, Main Road",4,3,Bachelors/Family,Immediately
+Pune,2,Kharadi,50000,1135,Flat,Furnished,East,Garden/Park,2,2,Bachelors,Immediately
+Pune,2,Balewadi,40000,840,Flat,Semi-Furnished,East,"Pool, Garden/Park, Main Road",2,2,Bachelors,Immediately
+Pune,2,Kharadi,45000,750,Flat,Furnished,East,Garden/Park,2,2,Bachelors/Family,From Feb '26
+Pune,3,Kharadi,40000,1050,Flat,Unfurnished,East,Main Road,3,1,Family,Immediately
+Pune,3,Kharadi,65000,1430,Flat,Furnished,East,Garden/Park,3,1,Bachelors,Immediately
+Pune,2,Hadapsar,22000,900,Flat,Unfurnished,East,"Garden/Park, Main Road",2,2,Bachelors/Family,Immediately
+Pune,1,Bavdhan,17000,450,Flat,Unfurnished,East,"Pool, Garden/Park",1,1,Bachelors,Immediately
+Pune,2,Kharadi,24000,865,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Pune,3,Viman Nagar,55000,1150,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",3,2,Family,Immediately
+Pune,3,Kharadi,25000,1260,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",3,1,Family,Immediately
+Pune,2,Hinjewadi,21000,650,Flat,Semi-Furnished,East,"Pool, Garden/Park, Main Road",2,2,Bachelors,Immediately
+Pune,2,Mundhwa,28000,770,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,2,Bachelors/Family,Immediately
+Pune,3,Balewadi,50000,1350,Flat,Unfurnished,East,Garden/Park,3,1,Bachelors,Immediately
+Pune,2,Kharadi,48000,1050,Flat,Semi-Furnished,East,Garden/Park,2,2,Bachelors/Family,Immediately
+Pune,3,Kharadi,65000,1350,Flat,Semi-Furnished,North,"Pool, Garden/Park, Main Road",3,2,Bachelors,Immediately
+Pune,2,Baner,45000,1250,Flat,Furnished,East,"Pool, Garden/Park, Main Road",2,1,Bachelors,Immediately
+Pune,3,Kharadi,45000,1100,Flat,Semi-Furnished,North - East,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Pune,2,Kharadi,20000,724,Flat,Unfurnished,East,"Garden/Park, Pool",2,2,Bachelors/Family,Immediately
+Pune,2,Kharadi,37000,740,Flat,Semi-Furnished,East,"Pool, Main Road, Garden/Park",2,2,Bachelors,Immediately
+Pune,2,Hadapsar,50000,1050,Flat,Furnished,East,"Garden/Park, Pool",2,1,Bachelors,Immediately
+Pune,2,Wagholi,39000,828,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Pune,3,Wagholi,34000,1285,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",3,2,Bachelors/Family,Immediately
+Pune,2,Kharadi,18000,624,Flat,Semi-Furnished,North,Main Road,2,1,Bachelors,From Feb '26
+Pune,3,Viman Nagar,60000,1247,Flat,Semi-Furnished,East,Garden/Park,3,2,Bachelors/Family,Immediately
+Pune,3,Kharadi,90000,1750,Flat,Unfurnished,East,"Pool, Main Road",3,1,Bachelors/Family,Immediately
+Pune,2,Viman Nagar,47000,1050,Flat,Unfurnished,East,"Garden/Park, Main Road",2,1,Bachelors,Immediately
+Pune,3,Kharadi,25000,1082,Flat,Semi-Furnished,East,Main Road,3,3,Bachelors/Family,Immediately
+Pune,3,Wagholi,19000,1000,Flat,Semi-Furnished,East,"Garden/Park, Main Road",2,2,Bachelors,Immediately
+Pune,3,Mundhwa,47000,1156,Flat,Unfurnished,East,"Garden/Park, Pool",3,2,Bachelors/Family,Immediately
+Pune,4,Bavdhan,75000,2250,Villa,Furnished,North,"Garden/Park, Main Road",4,3,Family,Immediately
+Pune,3,Kharadi,120000,1260,Flat,Furnished,East,Main Road,3,2,Family,Immediately
+Pune,2,Kharadi,22000,850,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,2,Bachelors/Family,Immediately
+Pune,2,Kharadi,58000,1050,Flat,Furnished,East,"Garden/Park, Pool, Main Road",2,1,Bachelors/Family,Immediately
+Pune,1,Kharadi,20000,464,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",1,1,Bachelors,From Feb '26
+Pune,3,NIBM Road,51000,1550,Flat,Semi-Furnished,East,"Pool, Garden/Park, Main Road",3,3,Bachelors,Immediately
+Pune,2,Hinjewadi,23000,800,Flat,Unfurnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Pune,3,Wakad,42000,1050,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",2,2,Family,Immediately
+Pune,3,Kharadi,31000,1289,Flat,Semi-Furnished,West,"Garden/Park, Main Road",2,2,Family,Immediately
+Pune,3,Kharadi,30000,960,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",3,2,Bachelors/Family,Immediately
+Pune,2,Kharadi,40000,850,Flat,Furnished,East,Garden/Park,2,1,Bachelors,Immediately
+Pune,2,Viman Nagar,60000,850,Flat,Furnished,East,Garden/Park,2,2,Bachelors/Family,Immediately
+Pune,1,Pimpri,20000,500,Flat,Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Pune,2,Balewadi,27000,1080,Flat,Semi-Furnished,East,Main Road,2,1,Family,Immediately
+Pune,3,Kharadi,65000,1400,Flat,Semi-Furnished,East,"Garden/Park, Pool",3,2,Bachelors/Family,Immediately
+Pune,2,Kharadi,22000,850,Flat,Semi-Furnished,East,Garden/Park,2,1,Bachelors,Immediately
+Pune,3,Kharadi,37000,1100,Flat,Semi-Furnished,East,"Main Road, Garden/Park, Pool",2,1,Bachelors,Immediately
+Pune,3,Baner,90000,1370,Flat,Furnished,East,"Main Road, Garden/Park",3,2,Family,Immediately
+Pune,2,Kharadi,24000,726,Flat,Semi-Furnished,East,Garden/Park,2,2,Bachelors/Family,Immediately
+Pune,3,Pashan,45000,1158,Flat,Unfurnished,East,Main Road,3,2,Bachelors,Immediately
+Pune,3,Kharadi,52000,975,Villa,Semi-Furnished,East,"Garden/Park, Main Road",3,2,Bachelors/Family,Immediately
+Pune,3,Wagholi,27500,855,Flat,Semi-Furnished,East,Garden/Park,2,2,Bachelors,Immediately
+Pune,3,Kharadi,58000,1155,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",3,3,Bachelors/Family,Immediately
+Pune,1,Kharadi,21000,504,Flat,Semi-Furnished,East,"Main Road, Garden/Park",1,2,Bachelors,From Feb '26
+Pune,2,Kharadi,33000,850,Flat,Unfurnished,East,Garden/Park,2,1,Bachelors/Family,Immediately
+Pune,2,Hinjewadi,20050,400,Flat,Furnished,East,"Garden/Park, Pool, Main Road",1,1,Bachelors/Family,Immediately
+Pune,3,Hinjewadi,42000,1200,Flat,Furnished,East,Main Road,3,2,Bachelors,Immediately
+Pune,2,Kharadi,30000,698,Flat,Furnished,East,Main Road,2,1,Bachelors,Immediately
+Pune,2,Hadapsar,25000,971,Flat,Furnished,East,Main Road,2,1,Family,Immediately
+Pune,3,Pimpri,40000,964,Flat,Unfurnished,East,Main Road,3,3,Bachelors/Family,Immediately
+Pune,2,Kharadi,20000,1154,Flat,Semi-Furnished,East,Main Road,2,3,Bachelors,Immediately
+Pune,2,Kharadi,24000,940,Flat,Semi-Furnished,East,Garden/Park,2,1,Bachelors/Family,Immediately
+Pune,2,Kharadi,43000,750,Flat,Semi-Furnished,West,Main Road,2,2,Bachelors,Immediately
+Pune,3,Kharadi,36000,1000,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,2,Bachelors,Immediately
+Pune,2,Kharadi,12000,730,Flat,Unfurnished,East,Garden/Park,2,2,Bachelors,Immediately
+Pune,1,Kharadi,14000,500,Flat,Semi-Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Pune,2,Kharadi,18000,500,House,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Pune,2,Kharadi,16000,750,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Pune,2,Kalyani Nagar,43000,1064,Flat,Semi-Furnished,East,"Garden/Park, Main Road",2,2,Bachelors/Family,From Feb '26
+Pune,2,Undri,31000,800,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Pune,2,Kharadi,28000,991,Flat,Semi-Furnished,East,Main Road,2,3,Bachelors/Family,Immediately
+Pune,3,Balewadi,48000,1550,Flat,Furnished,East,"Pool, Garden/Park, Main Road",3,2,Bachelors,Immediately
+Pune,3,Pimpri,34000,1000,Flat,Semi-Furnished,East,Garden/Park,3,2,Family,Immediately
+Pune,2,Kharadi,25000,840,Flat,Unfurnished,East,Main Road,2,1,Bachelors,Immediately
+Pune,1,Wagholi,17500,700,Flat,Furnished,West,"Garden/Park, Pool, Main Road",2,2,Bachelors,Immediately
+Pune,2,Pimpri,30000,750,Flat,Semi-Furnished,West,Garden/Park,2,2,Family,Immediately
+Pune,2,Kharadi,15000,590,Flat,Semi-Furnished,North,"Garden/Park, Pool, Main Road",2,2,Bachelors,Immediately
+Pune,1,Kharadi,10000,650,House,Unfurnished,West,Main Road,1,2,Bachelors,Immediately
+Pune,3,Kharadi,28000,1070,Flat,Semi-Furnished,North - East,Main Road,3,2,Family,Immediately
+Pune,3,Pimpri,35000,1403,Flat,Semi-Furnished,West,"Garden/Park, Main Road",3,3,Bachelors,Immediately
+Pune,3,Kharadi,18500,800,House,Semi-Furnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Pune,2,Pimpri,21500,740,Flat,Semi-Furnished,East,"Garden/Park, Pool",2,1,Family,From Feb '26
+Pune,2,NIBM Road,34000,743,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors,Immediately
+Pune,2,Wagholi,22000,700,Flat,Furnished,North,"Garden/Park, Main Road",2,2,Bachelors,Immediately
+Pune,1,Kharadi,20000,600,Flat,Semi-Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Pune,2,Kharadi,15500,850,Flat,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Pune,3,NIBM Road,37000,1530,Flat,Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Pune,3,Baner,36500,1276,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors/Family,Immediately
+Pune,2,Hinjewadi,30000,710,Flat,Semi-Furnished,East,Garden/Park,2,2,Bachelors,Immediately
+Pune,3,Kharadi,16000,1000,Flat,Unfurnished,West,Garden/Park,2,2,Bachelors/Family,Immediately
+Pune,1,Kharadi,10000,550,Flat,Semi-Furnished,East,Garden/Park,1,1,Bachelors,Immediately
+Pune,3,Mundhwa,50000,1700,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors/Family,From Feb '26
+Pune,3,Pimple Saudagar,41000,1400,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors,Immediately
+Pune,2,Kharadi,16000,580,Flat,Semi-Furnished,East,"Pool, Garden/Park, Main Road",2,2,Bachelors,Immediately
+Pune,2,Pimpri,25000,850,House,Semi-Furnished,East,Garden/Park,2,1,Bachelors,Immediately
+Pune,2,Kharadi,23000,525,Flat,Semi-Furnished,East,Garden/Park,2,2,Bachelors,Immediately
+Pune,4,Kharadi,110000,2200,Flat,Furnished,East,Garden/Park,4,2,Family,From Mar '26
+Pune,2,Bavdhan,23500,725,Flat,Unfurnished,East,Main Road,2,1,Bachelors,Immediately
+Pune,2,Hinjewadi,25000,1000,Flat,Unfurnished,East,"Garden/Park, Pool",2,1,Bachelors/Family,Immediately
+Pune,2,Hinjewadi,25000,636,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,1,Bachelors,Immediately
+Pune,2,Kharadi,15000,780,Flat,Unfurnished,East,Main Road,2,2,Bachelors,Immediately
+Pune,3,Wakad,49500,1100,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",3,2,Bachelors,Immediately
+Pune,2,Viman Nagar,40000,1000,Flat,Furnished,East,"Garden/Park, Main Road",2,2,Bachelors/Family,Immediately
+Pune,3,Kharadi,42000,1150,Flat,Semi-Furnished,East,Garden/Park,3,2,Bachelors,Immediately
+Pune,3,Wakad,28000,950,Flat,Semi-Furnished,East,"Garden/Park, Main Road",2,2,Family,Immediately
+Pune,1,Kharadi,21000,650,House,Semi-Furnished,North,Garden/Park,2,1,Family,Immediately
+Pune,1,Wagholi,8500,385,Flat,Unfurnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Pune,2,Aundh,40000,850,Flat,Furnished,East,Main Road,2,2,Family,Immediately
+Pune,2,Kalyani Nagar,40000,805,Flat,Semi-Furnished,East,"Pool, Garden/Park, Main Road",2,2,Bachelors,Immediately
+Pune,2,Wakad,35000,825,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",2,1,Bachelors,From Feb '26
+Pune,2,Pimpri,24500,750,Flat,Semi-Furnished,North - East,"Garden/Park, Pool, Main Road",2,1,Bachelors,Immediately
+Pune,3,Pimpri,50000,1130,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",3,3,Bachelors,Immediately
+Pune,3,Mundhwa,55000,1300,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",3,3,Bachelors/Family,Immediately
+Pune,2,Kharadi,59000,1250,Flat,Semi-Furnished,North,Garden/Park,2,1,Family,Immediately
+Pune,3,Kharadi,60000,1900,Flat,Furnished,East,"Garden/Park, Main Road",3,3,Bachelors/Family,Immediately
+Pune,2,Kharadi,25000,742,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Pune,3,Bavdhan,36000,1170,Flat,Semi-Furnished,East,Garden/Park,3,1,Family,Immediately
+Pune,2,Kharadi,30000,1200,Flat,Furnished,East,"Garden/Park, Pool, Main Road",2,1,Bachelors,Immediately
+Pune,2,Wakad,32000,1050,Flat,Unfurnished,East,"Garden/Park, Main Road",2,2,Bachelors/Family,Immediately
+Pune,3,Wagholi,35000,2100,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",4,3,Bachelors/Family,Immediately
+Pune,3,Kharadi,53000,1350,Flat,Furnished,East,"Garden/Park, Main Road",2,1,Bachelors,Immediately
+Pune,2,Kalyani Nagar,65000,865,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Pune,4,Kharadi,55000,1450,Flat,Semi-Furnished,East,Garden/Park,3,2,Bachelors,Immediately
+Pune,1,Hinjewadi,17000,436,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",1,1,Bachelors,Immediately
+Pune,3,Wakad,39000,932,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,3,Bachelors,Immediately
+Pune,2,Wagholi,17500,1100,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors,Immediately
+Pune,2,Wagholi,19000,620,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,3,Bachelors/Family,Immediately
+Pune,4,Wakad,58000,2771,Flat,Semi-Furnished,East,"Garden/Park, Main Road",4,3,Bachelors,Immediately
+Pune,2,Kharadi,27000,650,Flat,Furnished,North,Main Road,2,1,Bachelors/Family,Immediately
+Pune,2,Pimpri,25000,774,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,2,Bachelors,Immediately
+Pune,3,Undri,25000,1100,Flat,Semi-Furnished,North,"Garden/Park, Main Road",3,2,Bachelors,Immediately
+Pune,2,Kharadi,88000,1069,Flat,Furnished,East,"Garden/Park, Pool, Main Road",3,1,Bachelors,Immediately
+Pune,4,Baner,91500,2345,Flat,Semi-Furnished,East,Main Road,4,1,Bachelors/Family,Immediately
+Pune,3,Kharadi,28000,836,Flat,Semi-Furnished,East,"Garden/Park, Main Road",3,2,Bachelors,Immediately
+Pune,2,Kharadi,18000,780,Flat,Semi-Furnished,North - East,Main Road,2,1,Bachelors,Immediately
+Pune,2,NIBM Road,26000,770,Flat,Semi-Furnished,North,Main Road,2,2,Bachelors,Immediately
+Pune,3,Kharadi,130000,1600,Flat,Furnished,East,Main Road,3,1,Bachelors/Family,From Feb '26
+Pune,3,Wagholi,38000,1542,Flat,Semi-Furnished,East,"Garden/Park, Main Road",3,3,Bachelors,Immediately
+Pune,3,Kharadi,49999,1348,Flat,Unfurnished,East,"Garden/Park, Main Road",3,2,Family,Immediately
+Pune,2,Mundhwa,42000,1100,Flat,Furnished,West,"Garden/Park, Main Road",2,3,Family,Immediately
+Pune,1,Kharadi,16000,460,Flat,Semi-Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Pune,1,Hinjewadi,14000,500,House,Unfurnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Pune,1,Wagholi,5000,540,Flat,Unfurnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Pune,3,Kharadi,20000,1350,Flat,Semi-Furnished,East,Main Road,2,3,Bachelors/Family,Immediately
+Pune,4,Kharadi,160000,2800,Flat,Semi-Furnished,East,Garden/Park,4,2,Family,Immediately
+Pune,2,Aundh,30000,950,Flat,Semi-Furnished,East,Garden/Park,2,1,Bachelors,Immediately
+Pune,2,Kharadi,32000,900,Flat,Unfurnished,East,Pool,2,1,Bachelors/Family,Immediately
+Pune,2,Wakad,40000,900,Flat,Furnished,East,"Garden/Park, Main Road",2,2,Bachelors,Immediately
+Pune,2,Hinjewadi,21000,629,Flat,Unfurnished,East,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Pune,2,T Nagar,32000,850,Flat,Furnished,East,Main Road,2,2,Bachelors/Family,From Feb '26
+Pune,2,Kharadi,23000,700,Flat,Semi-Furnished,East,Garden/Park,2,2,Bachelors,Immediately
+Pune,3,Kharadi,26000,1395,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors/Family,Immediately
+Pune,1,Kharadi,16000,450,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Pune,2,Kharadi,15000,750,Flat,Unfurnished,East,Main Road,1,1,Bachelors,Immediately
+Pune,3,Wagholi,48000,1645,Flat,Furnished,East,"Pool, Garden/Park, Main Road",3,3,Bachelors,Immediately
+Pune,2,Pimpri,31000,1047,Flat,Semi-Furnished,West,Main Road,2,2,Bachelors,Immediately
+Pune,2,Kharadi,7000,831,Flat,Unfurnished,East,Garden/Park,2,1,Bachelors,From Feb '26
+Pune,2,Hadapsar,25500,950,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Pune,2,Undri,22999,900,Flat,Unfurnished,East,"Garden/Park, Main Road",2,3,Family,Immediately
+Pune,2,Hinjewadi,28500,790,Flat,Semi-Furnished,East,Garden/Park,2,2,Bachelors,Immediately
+Pune,1,Hinjewadi,15000,389,Flat,Semi-Furnished,East,"Garden/Park, Main Road",1,1,Bachelors,Immediately
+Pune,2,Kharadi,20000,750,Flat,Semi-Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Pune,1,Mundhwa,9000,450,Flat,Semi-Furnished,West,Main Road,1,1,Bachelors/Family,Immediately
+Pune,3,Balewadi,45000,1500,Flat,Unfurnished,East,"Pool, Garden/Park, Main Road",3,3,Bachelors/Family,Immediately
+Pune,3,Balewadi,42000,1250,Flat,Furnished,East,"Garden/Park, Pool",3,2,Family,Immediately
+Pune,3,Baner,40000,1150,Flat,Unfurnished,East,"Garden/Park, Pool",2,2,Bachelors/Family,Immediately
+Pune,1,Mundhwa,24000,500,Flat,Furnished,East,"Garden/Park, Main Road",1,1,Family,Immediately
+Pune,3,Koregaon Park,110000,1550,Flat,Furnished,North,Garden/Park,4,2,Family,Immediately
+Pune,3,NIBM Road,45000,1250,Flat,Unfurnished,East,"Garden/Park, Pool",3,2,Bachelors,Immediately
+Pune,2,NIBM Road,30000,820,Flat,Unfurnished,East,"Garden/Park, Pool",2,2,Family,Immediately
+Pune,1,Wagholi,16000,550,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",2,2,Bachelors/Family,Immediately
+Pune,3,Balewadi,40000,1110,Flat,Semi-Furnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Pune,2,Kharadi,20000,750,Flat,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Pune,3,Bavdhan,32000,1265,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",3,2,Family,Immediately
+Pune,3,Wagholi,23500,948,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",2,1,Bachelors/Family,Immediately
+Pune,3,Pimple Saudagar,40000,1800,Villa,Semi-Furnished,East,Main Road,3,2,Family,Immediately
+Pune,3,Balewadi,42000,1200,Flat,Furnished,East,Garden/Park,3,2,Family,Immediately
+Pune,2,Bavdhan,35000,850,Flat,Furnished,East,"Pool, Garden/Park, Main Road",2,3,Bachelors/Family,Immediately
+Pune,4,Pimple Saudagar,42000,1680,Flat,Unfurnished,East,Garden/Park,4,2,Family,Immediately
+Pune,2,Kharadi,42000,950,Flat,Unfurnished,East,Garden/Park,2,1,Bachelors/Family,Immediately
+Pune,2,Hadapsar,30000,710,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Pune,2,Kharadi,31000,650,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",2,1,Bachelors/Family,Immediately
+Pune,2,Kharadi,30000,780,Flat,Semi-Furnished,East,Main Road,2,1,Family,Immediately
+Chennai,3,Perungudi,120000,1616,Flat,Semi-Furnished,South,Main Road,3,2,Family,Immediately
+Chennai,2,Sholinganallur,33000,1147,Flat,Semi-Furnished,North,Garden/Park,2,1,Family,From Mar '26
+Chennai,3,Vadapalani,80000,1923,Flat,Unfurnished,East,Main Road,3,1,Family,From Feb '26
+Chennai,3,Perungudi,50000,1800,Flat,Semi-Furnished,East,Main Road,4,2,Family,Immediately
+Chennai,3,Perungudi,95000,1800,Flat,Furnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Chennai,4,Perungudi,65000,2301,Flat,Semi-Furnished,West,"Garden/Park, Main Road",4,1,Bachelors/Family,Immediately
+Chennai,1,Perungudi,8200,700,House,Unfurnished,East,Main Road,1,2,Family,Immediately
+Chennai,3,Perungudi,26000,1250,Flat,Semi-Furnished,East,Main Road,3,2,Family,From Feb '26
+Chennai,2,Perungudi,28000,1100,Flat,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,25000,845,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors,From May '26
+Chennai,2,Thiruvanmiyur,32500,880,House,Semi-Furnished,West,Main Road,2,1,Bachelors,Immediately
+Chennai,3,Perungudi,50000,1859,Flat,Furnished,South,Main Road,3,1,Bachelors,Immediately
+Chennai,3,Perungudi,68000,1650,Flat,Unfurnished,East,Main Road,3,2,Bachelors,Immediately
+Chennai,3,Perungudi,35000,2000,House,Semi-Furnished,West,"Garden/Park, Main Road",3,2,Bachelors,Immediately
+Chennai,3,Perungudi,75000,1250,Flat,Semi-Furnished,North - East,"Garden/Park, Main Road",3,1,Bachelors/Family,Immediately
+Chennai,4,Perungudi,70000,2300,House,Semi-Furnished,East,Main Road,4,1,Bachelors/Family,Immediately
+Chennai,4,Perungudi,120000,1800,Villa,Semi-Furnished,North,Garden/Park,3,1,Bachelors,Immediately
+Chennai,3,Perungudi,67000,2400,Villa,Semi-Furnished,East,Main Road,4,3,Bachelors/Family,Immediately
+Chennai,3,Perungudi,30000,1446,Flat,Semi-Furnished,West,Main Road,2,1,Bachelors,Immediately
+Chennai,1,T Nagar,23000,780,House,Unfurnished,North,Main Road,1,1,Bachelors,Immediately
+Chennai,3,Perungudi,13000,1500,Flat,Furnished,East,Main Road,3,2,Bachelors/Family,Immediately
+Chennai,3,Anna Nagar,110000,2062,Flat,Furnished,East,"Garden/Park, Main Road",4,2,Bachelors/Family,Immediately
+Chennai,3,Pallavaram,35000,1200,Flat,Semi-Furnished,East,Garden/Park,3,2,Bachelors,Immediately
+Chennai,3,Perungudi,12000,1100,Flat,Semi-Furnished,East,Main Road,2,3,Family,Immediately
+Chennai,3,Perungudi,27000,1245,Flat,Semi-Furnished,West,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,20000,720,House,Unfurnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,40000,1458,Flat,Semi-Furnished,North,Main Road,2,2,Bachelors/Family,Immediately
+Chennai,3,Adyar,120000,1724,Flat,Furnished,East,Garden/Park,3,1,Bachelors/Family,From Feb '26
+Chennai,2,Perungudi,20000,1050,House,Semi-Furnished,West,"Garden/Park, Main Road",2,1,Bachelors,Immediately
+Chennai,4,Perungudi,55000,2400,Villa,Semi-Furnished,South,Main Road,4,2,Bachelors,Immediately
+Chennai,2,Perungudi,38000,1200,Flat,Semi-Furnished,West,Main Road,2,1,Family,Immediately
+Chennai,3,Perungudi,26000,1580,Flat,Semi-Furnished,East,"Garden/Park, Main Road",3,2,Family,Immediately
+Chennai,2,Medavakkam,25000,1100,Flat,Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,25000,900,Flat,Semi-Furnished,East,Main Road,2,1,Family,Immediately
+Chennai,3,Perungudi,35000,1020,Flat,Furnished,East,"Garden/Park, Pool",2,1,Bachelors,Immediately
+Chennai,2,Perungudi,12000,800,House,Semi-Furnished,East,Main Road,2,1,Bachelors,Immediately
+Chennai,2,Perungudi,13000,670,Flat,Unfurnished,East,Main Road,2,2,Bachelors/Family,Immediately
+Chennai,4,OMR,43000,2306,Villa,Semi-Furnished,East,Main Road,3,1,Bachelors,Immediately
+Chennai,3,Kelambakkam,26000,1350,House,Semi-Furnished,South,Main Road,2,2,Bachelors/Family,Immediately
+Chennai,2,Perungudi,25000,800,Flat,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,2,Thiruvanmiyur,27000,1250,Flat,Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,2,OMR,22000,1261,Flat,Semi-Furnished,North,"Garden/Park, Pool, Main Road",2,2,Bachelors/Family,Immediately
+Chennai,3,OMR,50000,1500,Flat,Furnished,East,Garden/Park,3,1,Bachelors,From Feb '26
+Chennai,1,OMR,22000,462,Flat,Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,27000,750,Flat,Furnished,East,Main Road,2,1,Bachelors,Immediately
+Chennai,4,OMR,36000,2600,Villa,Semi-Furnished,East,Main Road,4,1,Bachelors/Family,Immediately
+Chennai,1,Perungudi,25000,450,Flat,Furnished,North,Main Road,1,1,Bachelors/Family,From Jan '26
+Chennai,2,Perungudi,30000,1100,House,Unfurnished,East,Main Road,2,1,Bachelors/Family,From Apr '26
+Chennai,2,Velachery,20000,750,Flat,Unfurnished,East,Main Road,1,1,Family,Immediately
+Chennai,2,Perungudi,10000,900,House,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,From Feb '26
+Chennai,3,Perungudi,55000,2300,Flat,Semi-Furnished,North,Main Road,3,1,Bachelors/Family,From Feb '26
+Chennai,3,Perungudi,25000,918,Flat,Semi-Furnished,East,"Pool, Garden/Park, Main Road",2,1,Bachelors,Immediately
+Chennai,3,Anna Nagar,50000,1800,Flat,Semi-Furnished,East,"Garden/Park, Main Road",3,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,40000,1300,Villa,Furnished,East,Main Road,3,2,Bachelors,From Feb '26
+Chennai,1,Nungambakkam,25000,450,Flat,Furnished,North,Main Road,1,1,Bachelors/Family,Immediately
+Chennai,3,Anna Nagar,75000,2324,Villa,Semi-Furnished,North - East,Garden/Park,3,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,23000,1100,House,Semi-Furnished,East,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,120000,1700,Flat,Semi-Furnished,South,"Garden/Park, Main Road",3,1,Bachelors/Family,Immediately
+Chennai,4,Perungudi,80000,1800,Flat,Semi-Furnished,North - East,Main Road,4,3,Bachelors/Family,From Feb '26
+Chennai,2,Perungudi,29000,667,Flat,Semi-Furnished,East,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,34000,1200,Flat,Semi-Furnished,East,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,66000,950,Flat,Semi-Furnished,North,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,90000,907,Flat,Semi-Furnished,North,"Garden/Park, Main Road",2,1,Bachelors,From Mar '26
+Chennai,2,Perungudi,20000,750,Flat,Semi-Furnished,South,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,3,T Nagar,45000,1000,Flat,Semi-Furnished,West,Main Road,2,1,Family,Immediately
+Chennai,2,Perungudi,20000,800,House,Semi-Furnished,South,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Chennai,2,Royapettah,40000,850,House,Furnished,North,"Garden/Park, Main Road",2,1,Bachelors,Immediately
+Chennai,3,Perungudi,45000,1200,House,Semi-Furnished,South,Main Road,4,1,Bachelors,Immediately
+Chennai,2,Perungudi,14000,1074,Flat,Unfurnished,North,Garden/Park,2,2,Bachelors/Family,Immediately
+Chennai,3,Perungudi,120000,1300,Flat,Semi-Furnished,North,"Garden/Park, Main Road",3,2,Bachelors/Family,Immediately
+Chennai,2,Perungudi,18000,700,Flat,Semi-Furnished,South,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Chennai,2,Tambaram,16000,900,House,Semi-Furnished,East,"Garden/Park, Main Road",2,1,Bachelors,Immediately
+Chennai,2,Perungudi,23000,1190,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors,Immediately
+Chennai,3,Sholinganallur,40000,1560,House,Semi-Furnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,8500,1500,House,Furnished,East,Main Road,3,1,Bachelors,Immediately
+Chennai,3,Perungudi,50000,1500,House,Unfurnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,16000,1025,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",3,1,Bachelors,Immediately
+Chennai,1,Perungudi,9500,500,Flat,Furnished,East,Main Road,1,1,Bachelors,Immediately
+Chennai,2,Perungudi,18000,1060,Flat,Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,1,Perungudi,14000,300,House,Unfurnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,57000,2200,Flat,Semi-Furnished,East,Main Road,3,3,Bachelors/Family,Immediately
+Chennai,3,Perungudi,36000,1250,House,Semi-Furnished,South,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,20000,1250,House,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,25000,1200,Flat,Unfurnished,East,Main Road,2,3,Bachelors/Family,Immediately
+Chennai,1,Perungudi,25000,350,Flat,Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,7500,850,House,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,30000,900,House,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,1,Perungudi,23000,510,Flat,Furnished,South,"Garden/Park, Main Road",1,1,Bachelors,Immediately
+Chennai,1,T Nagar,25000,750,Flat,Semi-Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Chennai,2,Nungambakkam,34000,740,Flat,Unfurnished,South,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,3,Thiruvanmiyur,60000,1580,Flat,Semi-Furnished,South,Main Road,3,1,Family,Immediately
+Chennai,3,T Nagar,75000,1650,Flat,Semi-Furnished,East,Main Road,3,1,Bachelors,Immediately
+Chennai,2,Perungudi,25000,1200,Flat,Semi-Furnished,East,Main Road,2,2,Bachelors,Immediately
+Chennai,2,Egmore,50000,1095,Flat,Semi-Furnished,North,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,42000,1200,Flat,Semi-Furnished,South,Main Road,2,1,Bachelors,Immediately
+Chennai,1,Perungudi,25000,400,Flat,Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Chennai,4,Perungudi,55000,1800,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors/Family,Immediately
+Chennai,3,Perungudi,85000,1300,Flat,Furnished,East,Garden/Park,3,1,Bachelors,Immediately
+Chennai,2,Perungudi,20000,1200,House,Furnished,West,Main Road,2,2,Bachelors,Immediately
+Chennai,1,Perungudi,13000,1200,House,Unfurnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,45000,1159,Flat,Semi-Furnished,East,Main Road,2,3,Bachelors,Immediately
+Chennai,2,Perungudi,25000,800,Flat,Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,20000,1360,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,35000,1300,House,Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,15000,1230,Flat,Unfurnished,East,Main Road,2,3,Bachelors/Family,Immediately
+Chennai,1,Anna Nagar,7000,300,House,Semi-Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Chennai,1,Perungudi,25000,800,House,Semi-Furnished,East,Garden/Park,1,1,Bachelors/Family,Immediately
+Chennai,3,Kelambakkam,25000,1450,Flat,Semi-Furnished,North,"Garden/Park, Main Road",3,2,Family,Immediately
+Chennai,2,Sholinganallur,28000,1100,Flat,Semi-Furnished,East,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,18000,1000,House,Semi-Furnished,North,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,3,Sholinganallur,52000,1596,Flat,Furnished,East,Main Road,3,3,Bachelors,Immediately
+Chennai,3,Anna Nagar,25000,1140,Flat,Semi-Furnished,North,Main Road,2,1,Family,Immediately
+Chennai,3,Sholinganallur,25000,1100,Flat,Semi-Furnished,West,Main Road,3,1,Bachelors/Family,From Feb '26
+Chennai,2,Perungudi,50000,1510,Flat,Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,130000,1200,Flat,Semi-Furnished,South,"Main Road, Garden/Park, Pool",3,2,Bachelors/Family,Immediately
+Chennai,1,Perungudi,22000,500,Flat,Semi-Furnished,North,"Garden/Park, Pool, Main Road",1,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,28000,800,Flat,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,100000,2170,Flat,Semi-Furnished,South - East,Garden/Park,3,2,Bachelors/Family,Immediately
+Chennai,3,Perungudi,35000,1885,House,Semi-Furnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Chennai,1,Perungudi,10000,3,House,Unfurnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,25000,700,House,Unfurnished,South - East,Garden/Park,2,1,Bachelors,Immediately
+Chennai,2,Perungudi,15000,640,House,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,23000,660,Villa,Semi-Furnished,East,"Garden/Park, Pool",3,1,Bachelors/Family,From Feb '26
+Chennai,1,Perungudi,16000,600,House,Semi-Furnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,40000,1800,Flat,Semi-Furnished,North,"Garden/Park, Main Road",3,1,Bachelors/Family,Immediately
+Chennai,4,Porur,30000,1450,Flat,Semi-Furnished,North,Garden/Park,4,3,Bachelors/Family,Immediately
+Chennai,2,Perungudi,25000,1300,Villa,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,15000,800,House,Semi-Furnished,North,Main Road,2,1,Bachelors,Immediately
+Chennai,2,Adyar,45000,950,Flat,Semi-Furnished,North,Main Road,2,2,Family,Immediately
+Chennai,3,Perungudi,30000,1300,House,Unfurnished,West,Pool,3,2,Bachelors/Family,Immediately
+Chennai,3,Perungudi,30000,2408,Villa,Semi-Furnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,35000,900,Flat,Semi-Furnished,North - East,Main Road,2,1,Bachelors/Family,From Feb '26
+Chennai,3,Egmore,130000,1650,Flat,Furnished,North - West,"Pool, Garden/Park",3,2,Bachelors/Family,Immediately
+Chennai,3,Perungudi,40000,1300,Flat,Semi-Furnished,North,"Garden/Park, Pool, Main Road",2,1,Family,Immediately
+Chennai,3,Perungudi,25000,200,Villa,Unfurnished,East,"Garden/Park, Main Road",3,2,Bachelors,From Feb '26
+Chennai,3,Perungudi,55000,1000,Flat,Semi-Furnished,East,"Garden/Park, Main Road",2,1,Bachelors,Immediately
+Chennai,3,Pallavaram,38000,1400,Flat,Unfurnished,East,Main Road,3,3,Family,From Feb '26
+Chennai,3,Kodambakkam,40000,1450,Flat,Furnished,East,"Garden/Park, Main Road",4,3,Bachelors,Immediately
+Chennai,3,Perungudi,65000,1350,Flat,Semi-Furnished,North,Main Road,3,1,Family,Immediately
+Chennai,3,Perungudi,35000,1177,Flat,Semi-Furnished,South,Garden/Park,3,3,Bachelors/Family,Immediately
+Chennai,2,Tambaram,15000,830,House,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,55000,2075,Villa,Semi-Furnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,26000,1500,Villa,Semi-Furnished,North,Garden/Park,2,2,Bachelors,Immediately
+Chennai,1,Perungudi,20000,651,Flat,Semi-Furnished,North,Garden/Park,1,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,28000,900,Flat,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,1,Perungudi,9100,495,House,Semi-Furnished,South,Main Road,1,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,20000,1250,House,Semi-Furnished,East,Main Road,2,2,Bachelors,Immediately
+Chennai,2,Perungudi,51000,1166,Flat,Furnished,East,Pool,2,1,Family,Immediately
+Chennai,3,T Nagar,50000,1800,Flat,Unfurnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,25000,1051,Flat,Semi-Furnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,20000,800,House,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,12000,700,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors,Immediately
+Chennai,2,Perungudi,22000,960,Flat,Semi-Furnished,South,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,3,Medavakkam,36000,1700,Villa,Semi-Furnished,East,"Garden/Park, Main Road",3,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,25000,1100,Villa,Semi-Furnished,South,"Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,18000,1050,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,4,Perungudi,45000,2100,Villa,Semi-Furnished,East,"Garden/Park, Main Road",3,1,Bachelors,Immediately
+Chennai,2,Perungudi,28000,775,Flat,Semi-Furnished,South,"Garden/Park, Main Road",2,1,Bachelors,Immediately
+Chennai,2,Perungudi,30000,1900,Flat,Furnished,East,Main Road,2,1,Bachelors,Immediately
+Chennai,2,Perungudi,12500,600,House,Semi-Furnished,North,"Garden/Park, Main Road",2,1,Bachelors,Immediately
+Chennai,2,Porur,21000,700,House,Semi-Furnished,West,Garden/Park,2,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,47000,1000,Flat,Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,3,Porur,32000,2100,House,Semi-Furnished,East,Garden/Park,3,1,Bachelors,Immediately
+Chennai,3,Perungudi,16000,1100,House,Furnished,East,Garden/Park,2,1,Bachelors,Immediately
+Chennai,3,Adyar,75000,1900,Flat,Semi-Furnished,East,Main Road,3,1,Bachelors,Immediately
+Chennai,2,Perungudi,46000,1100,Flat,Semi-Furnished,North,"Garden/Park, Pool, Main Road",2,1,Bachelors,Immediately
+Chennai,3,Porur,30000,1400,House,Semi-Furnished,North,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,2,Kelambakkam,9000,800,Flat,Semi-Furnished,North,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,25000,1200,House,Unfurnished,South,Main Road,1,1,Bachelors,Immediately
+Chennai,3,Perungudi,24000,1200,Flat,Semi-Furnished,North - West,Garden/Park,2,2,Bachelors,Immediately
+Chennai,3,Perungudi,45000,1600,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,3,Anna Nagar,65000,1206,House,Semi-Furnished,South,Main Road,2,1,Bachelors,Immediately
+Chennai,2,Perungudi,30000,900,Flat,Semi-Furnished,North - East,Garden/Park,2,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,39000,1050,Flat,Semi-Furnished,East,Garden/Park,2,1,Family,Immediately
+Chennai,2,Perungudi,90000,1685,House,Unfurnished,East,Pool,2,2,Bachelors/Family,Immediately
+Chennai,3,Perungudi,27000,1300,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,40000,1000,Flat,Unfurnished,South,"Garden/Park, Main Road",2,3,Bachelors,Immediately
+Chennai,2,OMR,30000,1261,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,1,Perungudi,30000,600,Flat,Furnished,North,"Garden/Park, Pool, Main Road",1,1,Bachelors,Immediately
+Chennai,1,Perungudi,10000,1200,House,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,30000,1250,House,Semi-Furnished,North,Main Road,3,3,Family,Immediately
+Chennai,2,Perungudi,22500,1200,Flat,Unfurnished,East,"Garden/Park, Pool, Main Road",2,2,Bachelors/Family,Immediately
+Chennai,1,Perungudi,20000,600,Flat,Unfurnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,55000,2030,Flat,Unfurnished,East,Garden/Park,3,2,Family,Immediately
+Chennai,4,Perungudi,150000,2200,Flat,Semi-Furnished,East,Garden/Park,3,2,Family,Immediately
+Chennai,2,Perungudi,140000,1313,Flat,Semi-Furnished,North,Main Road,2,1,Family,Immediately
+Chennai,3,Perungudi,70000,2300,Villa,Semi-Furnished,East,"Garden/Park, Pool, Main Road",3,1,Bachelors,Immediately
+Chennai,1,Perungudi,9000,600,House,Unfurnished,East,Main Road,1,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,14000,750,House,Unfurnished,South,Main Road,2,1,Family,Immediately
+Chennai,3,Perungudi,60000,2200,Villa,Semi-Furnished,North,Main Road,3,2,Bachelors/Family,Immediately
+Chennai,2,Perungudi,22000,900,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,40000,1670,House,Semi-Furnished,East,Garden/Park,3,2,Bachelors/Family,Immediately
+Chennai,2,Perungudi,25000,1100,House,Semi-Furnished,North,Main Road,2,2,Bachelors/Family,Immediately
+Chennai,2,Perungudi,40000,1200,Flat,Semi-Furnished,East,"Garden/Park, Main Road",2,2,Bachelors,From Feb '26
+Chennai,2,Perungudi,35000,1000,Flat,Semi-Furnished,East,Garden/Park,2,1,Bachelors/Family,Immediately
+Chennai,3,Thiruvanmiyur,50000,1750,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors/Family,Immediately
+Chennai,3,Perungudi,75000,1307,Flat,Semi-Furnished,North,Main Road,3,2,Bachelors,Immediately
+Chennai,3,Perungudi,130000,2200,Flat,Semi-Furnished,East,Main Road,3,2,Family,Immediately
+Chennai,3,Perungudi,150000,2100,Flat,Furnished,East,Main Road,3,3,Bachelors/Family,Immediately
+Chennai,2,Pallikaranai,18000,950,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,120000,1735,Flat,Semi-Furnished,East,"Main Road, Pool, Garden/Park",3,1,Bachelors,Immediately
+Chennai,2,Perungudi,13000,1000,House,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,30000,890,Flat,Unfurnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,4,Perungudi,60000,1400,House,Unfurnished,East,Main Road,3,1,Family,Immediately
+Chennai,2,Perungudi,35000,1452,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,27000,1650,House,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,3,Nungambakkam,80000,1620,Flat,Semi-Furnished,North,Main Road,3,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,35000,1750,Villa,Semi-Furnished,North,Main Road,3,2,Bachelors,Immediately
+Chennai,3,Perungudi,20000,2025,Villa,Semi-Furnished,North,Main Road,3,1,Family,Immediately
+Chennai,3,Medavakkam,35000,1100,Flat,Semi-Furnished,North,"Garden/Park, Main Road",3,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,31000,1025,Flat,Semi-Furnished,West,Main Road,2,3,Family,Immediately
+Chennai,3,Perungudi,34000,1500,Flat,Semi-Furnished,West,Main Road,3,2,Family,From Feb '26
+Chennai,2,Tambaram,20000,1100,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,140000,2600,Flat,Furnished,West,"Garden/Park, Pool, Main Road",3,2,Bachelors/Family,Immediately
+Chennai,1,Tambaram,10500,550,House,Unfurnished,South,Main Road,1,1,Family,Immediately
+Chennai,2,Guduvancheri,9000,875,Flat,Semi-Furnished,North,Main Road,2,1,Bachelors,Immediately
+Chennai,3,Perungudi,20000,1100,House,Unfurnished,East,Main Road,2,1,Family,From Feb '26
+Chennai,2,Perungudi,12000,650,House,Semi-Furnished,South,"Garden/Park, Main Road",1,1,Bachelors,Immediately
+Chennai,3,Perungudi,140000,1820,Flat,Semi-Furnished,East,Main Road,3,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,25000,1250,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,2,Perungudi,18000,1100,House,Semi-Furnished,West,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,120000,2063,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",3,1,Bachelors/Family,From Feb '26
+Chennai,3,Perungudi,15000,200,House,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,3,Sholinganallur,45000,1156,Flat,Semi-Furnished,East,"Garden/Park, Main Road",3,3,Family,Immediately
+Chennai,3,Perungudi,35000,950,Flat,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,2,Kodambakkam,44000,952,Flat,Furnished,East,Main Road,2,1,Bachelors,Immediately
+Chennai,2,Perungudi,22000,800,House,Furnished,East,"Garden/Park, Main Road",2,1,Bachelors,Immediately
+Chennai,4,Perungudi,20000,1800,Villa,Semi-Furnished,East,Garden/Park,4,1,Bachelors,Immediately
+Chennai,2,Perungudi,30000,1000,House,Semi-Furnished,North,Garden/Park,2,1,Bachelors,Immediately
+Chennai,3,Perungudi,140000,1975,Flat,Semi-Furnished,South,"Garden/Park, Main Road",3,1,Bachelors/Family,Immediately
+Chennai,3,Pallikaranai,35000,1500,Villa,Semi-Furnished,East,"Garden/Park, Main Road",3,1,Bachelors,Immediately
+Chennai,2,Perungudi,35000,1200,Flat,Semi-Furnished,East,Garden/Park,2,1,Bachelors,Immediately
+Chennai,2,Medavakkam,27000,1297,Flat,Semi-Furnished,South,Garden/Park,2,1,Bachelors/Family,Immediately
+Chennai,2,Thiruvanmiyur,36000,845,House,Semi-Furnished,East,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,3,Anna Nagar,65000,1200,Flat,Unfurnished,East,"Garden/Park, Main Road",2,1,Bachelors,Immediately
+Chennai,3,Perungudi,130000,2176,Flat,Semi-Furnished,East,Garden/Park,3,1,Bachelors/Family,Immediately
+Chennai,3,Anna Nagar,45000,700,Flat,Unfurnished,North,Garden/Park,2,2,Bachelors/Family,Immediately
+Chennai,3,Perungudi,85000,2800,Flat,Semi-Furnished,East,Main Road,3,2,Bachelors/Family,Immediately
+Chennai,3,Adyar,85000,2400,Flat,Unfurnished,West,Main Road,3,1,Bachelors/Family,Immediately
+Chennai,2,Sholinganallur,18000,800,House,Unfurnished,South,"Garden/Park, Main Road",2,1,Family,Immediately
+Chennai,3,Anna Nagar,55000,1555,Flat,Unfurnished,North,"Garden/Park, Main Road",2,2,Bachelors,Immediately
+Chennai,2,Mylapore,38000,1000,Flat,Semi-Furnished,South,"Pool, Garden/Park, Main Road",2,1,Bachelors/Family,Immediately
+Chennai,3,Porur,40000,1213,Flat,Semi-Furnished,North,Main Road,2,1,Family,Immediately
+Chennai,3,Velachery,35000,1100,Flat,Semi-Furnished,North,"Garden/Park, Main Road",3,1,Bachelors,Immediately
+Chennai,3,Perungudi,60000,1400,Flat,Semi-Furnished,East,"Garden/Park, Main Road",3,1,Bachelors,Immediately
+Chennai,3,T Nagar,160000,2500,Flat,Semi-Furnished,South,Garden/Park,3,2,Bachelors,Immediately
+Chennai,3,Perungudi,95000,1734,Flat,Semi-Furnished,East,Main Road,3,2,Family,Immediately
+Chennai,3,Perungudi,60000,1944,Flat,Semi-Furnished,East,"Pool, Garden/Park, Main Road",3,3,Bachelors,Immediately
+Chennai,2,Perungudi,28000,1055,Flat,Semi-Furnished,East,Garden/Park,2,1,Bachelors,Immediately
+Chennai,2,Perungudi,65000,1184,Flat,Furnished,West,Main Road,2,1,Bachelors/Family,Immediately
+Chennai,1,Perungudi,18000,700,House,Semi-Furnished,North,Main Road,1,3,Bachelors,Immediately
+Chennai,3,Nungambakkam,140000,1800,Flat,Semi-Furnished,North,Main Road,3,2,Bachelors,Immediately
+Chennai,1,Perungudi,31000,600,Flat,Furnished,West,Garden/Park,1,1,Bachelors,Immediately
+Chennai,3,Perungudi,140000,2000,Flat,Semi-Furnished,East,"Garden/Park, Pool, Main Road",3,2,Bachelors,Immediately
+Chennai,3,Perungudi,65000,1307,Flat,Semi-Furnished,North,Garden/Park,3,2,Bachelors,Immediately
+Chennai,4,Perungudi,75000,2000,House,Semi-Furnished,West,Main Road,2,2,Bachelors/Family,Immediately
+Chennai,3,Perungudi,120000,1555,Flat,Semi-Furnished,East,Pool,3,1,Bachelors/Family,Immediately
+Chennai,3,Nungambakkam,60000,1750,Flat,Semi-Furnished,North,"Garden/Park, Main Road",3,3,Bachelors,Immediately
+Chennai,2,Perungudi,55000,1200,Flat,Furnished,East,Main Road,2,2,Bachelors,Immediately
+Chennai,3,Perungudi,90000,1850,Flat,Semi-Furnished,West,Main Road,3,1,Bachelors,From Mar '26
+Chennai,3,Perungudi,110000,1940,Flat,Semi-Furnished,North,"Garden/Park, Pool",3,1,Bachelors/Family,Immediately
+Chennai,3,Perungudi,40000,1102,Flat,Semi-Furnished,East,Main Road,2,1,Family,From Jan '26
