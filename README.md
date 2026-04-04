@@ -161,5 +161,20 @@ This project is available for educational and research purposes.
 - Python data science community for excellent libraries
 - Open-source contributors
 
----
+---![Dashboard Overview](https://github.com/kunal1300/MagicBricksProject_Scraped_Data_EDA_Visualization-/blob/005d7a00ef990c07087adc0750eef8424cc615f7/1_rental_price_by_city.png)
+
+![Dashboard Overview](https://github.com/kunal1300/MagicBricksProject_Scraped_Data_EDA_Visualization-/blob/005d7a00ef990c07087adc0750eef8424cc615f7/15_Top%205%20Least%20%26%20Most%20Expensive%20Locations%20(Avg%20Price)%20-%20City%20Wise.png)
+
+
+![Dashboard Overview](https://github.com/kunal1300/MagicBricksProject_Scraped_Data_EDA_Visualization-/blob/005d7a00ef990c07087adc0750eef8424cc615f7/4_price_vs_area.png)
+
+
+![Dashboard Overview](https://github.com/kunal1300/MagicBricksProject_Scraped_Data_EDA_Visualization-/blob/005d7a00ef990c07087adc0750eef8424cc615f7/9_price_heatmap.png)
+
+![Dashboard Overview](https://github.com/kunal1300/MagicBricksProject_Scraped_Data_EDA_Visualization-/blob/005d7a00ef990c07087adc0750eef8424cc615f7/12_correlation_heatmap.png)
+
+![Dashboard Overview](https://github.com/kunal1300/MagicBricksProject_Scraped_Data_EDA_Visualization-/blob/005d7a00ef990c07087adc0750eef8424cc615f7/16%20Pairplot.png)
+
+
+![Dashboard Overview](https://github.com/kunal1300/MagicBricksProject_Scraped_Data_EDA_Visualization-/blob/005d7a00ef990c07087adc0750eef8424cc615f7/5_furnishing_analysis.png)
 
