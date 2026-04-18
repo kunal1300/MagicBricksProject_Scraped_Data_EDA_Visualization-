@@ -1,6 +1,9 @@
 from __future__ import annotations
 
+import io
 import re
+import textwrap
+from datetime import datetime
 from pathlib import Path
 
 import numpy as np
@@ -19,6 +22,18 @@ DATA_FILE = next((path for path in DATA_FILE_CANDIDATES if path.exists()), DATA_
 MIN_VALID_AREA_SQFT = 100
 MAX_REASONABLE_PRICE_PER_SQFT = 500
 PLOT_CONFIG = {"displayModeBar": False, "responsive": True}
+REQUIRED_CSV_COLUMNS = [
+    "City",
+    "BHK",
+    "Location",
+    "Property Type",
+    "Furnishing",
+    "Property Facing",
+    "Bathroom",
+    "Balcony",
+    "Tenant Preferred",
+    "Availability",
+]
 
 CITY_COLORS = {
     "Hyderabad": "#008C8C",
@@ -254,8 +269,8 @@ def format_price_per_sqft(value: float | int | None) -> str:
     return f"INR {float(value):.2f}/sqft"
 
 
-def data_source_label() -> str:
-    return DATA_FILE.name
+def data_source_label(source_name: str | None = None) -> str:
+    return source_name or DATA_FILE.name
 
 
 def with_common_layout(fig: go.Figure, title: str, height: int = 430) -> go.Figure:
@@ -308,9 +323,7 @@ def make_bar(
     return with_common_layout(fig, title, height)
 
 
-@st.cache_data(show_spinner=False)
-def load_data() -> pd.DataFrame:
-    raw_df = pd.read_csv(DATA_FILE)
+def prepare_dashboard_dataframe(raw_df: pd.DataFrame, source_name: str) -> pd.DataFrame:
     raw_df = raw_df.drop(columns=[c for c in raw_df.columns if c.startswith("Unnamed")], errors="ignore")
 
     for column in raw_df.select_dtypes(include=["object", "string"]).columns:
@@ -321,23 +334,43 @@ def load_data() -> pd.DataFrame:
     if price_source is None or area_source is None:
         raise ValueError("The data file must include price and area columns.")
 
+    missing_columns = [column for column in REQUIRED_CSV_COLUMNS if column not in raw_df.columns]
+    if missing_columns:
+        missing = ", ".join(missing_columns)
+        raise ValueError(f"The CSV is missing required dashboard columns: {missing}.")
+
     raw_df["Price"] = raw_df[price_source].apply(parse_money)
     raw_df["Area"] = raw_df[area_source].apply(parse_number)
     raw_df["Balcony Count"] = pd.to_numeric(raw_df.get("Balcony"), errors="coerce")
     raw_df["Price per sqft"] = raw_df["Price"] / raw_df["Area"].replace({0: np.nan})
     raw_df["Price Label"] = raw_df["Price"].apply(format_inr)
     raw_df["Area Label"] = raw_df["Area"].apply(lambda x: f"{x:,.0f} sqft" if pd.notna(x) else "NA")
-    raw_df["Source File"] = DATA_FILE.name
+    raw_df["Source File"] = source_name
 
     numeric_columns = ["BHK", "Bathroom"]
     for column in numeric_columns:
         if column in raw_df.columns:
             raw_df[column] = pd.to_numeric(raw_df[column], errors="coerce")
 
-    return raw_df.dropna(subset=["Price", "Area"]).query("Price > 0 and Area > 0")
+    clean_df = raw_df.dropna(subset=["Price", "Area", "BHK", "Bathroom"]).query("Price > 0 and Area > 0").copy()
+    if clean_df.empty:
+        raise ValueError("No valid rows were found after parsing price, area, BHK, and bathroom values.")
+    return clean_df
 
 
-def filter_dataframe(df: pd.DataFrame) -> tuple[pd.DataFrame, bool]:
+@st.cache_data(show_spinner=False)
+def load_data() -> pd.DataFrame:
+    raw_df = pd.read_csv(DATA_FILE)
+    return prepare_dashboard_dataframe(raw_df, DATA_FILE.name)
+
+
+@st.cache_data(show_spinner=False)
+def load_uploaded_data(file_bytes: bytes, source_name: str) -> pd.DataFrame:
+    raw_df = pd.read_csv(io.BytesIO(file_bytes))
+    return prepare_dashboard_dataframe(raw_df, source_name)
+
+
+def filter_dataframe(df: pd.DataFrame, source_name: str) -> tuple[pd.DataFrame, bool]:
     with st.sidebar:
         st.header("Filters")
 
@@ -425,7 +458,7 @@ def filter_dataframe(df: pd.DataFrame) -> tuple[pd.DataFrame, bool]:
             <div class="small-note">
             Active sample: <strong>{format_count(len(filtered))}</strong> listings from
             <strong>{format_count(len(df))}</strong> cleaned records.<br>
-            Source: <strong>{data_source_label()}</strong>
+            Source: <strong>{data_source_label(source_name)}</strong>
             </div>
             """,
             unsafe_allow_html=True,
@@ -907,6 +940,308 @@ def scatter_matrix(df: pd.DataFrame) -> go.Figure:
     )
     fig.update_traces(diagonal_visible=False, marker={"size": 4})
     return with_common_layout(fig, "Numeric Relationship Matrix", 780)
+
+
+def pdf_escape(value: object) -> str:
+    return str(value).replace("\\", "\\\\").replace("(", "\\(").replace(")", "\\)")
+
+
+def truncate_text(value: object, max_chars: int) -> str:
+    text = str(value)
+    if len(text) <= max_chars:
+        return text
+    return text[: max(0, max_chars - 3)] + "..."
+
+
+class SimplePDFReport:
+    def __init__(self) -> None:
+        self.width = 612
+        self.height = 792
+        self.margin = 44
+        self.pages: list[list[str]] = []
+        self.ops: list[str] = []
+        self.y = 0
+        self.add_page()
+
+    def add_page(self) -> None:
+        if self.ops:
+            self.pages.append(self.ops)
+        self.ops = []
+        self.y = self.height - self.margin
+
+    def finish_pages(self) -> None:
+        if self.ops:
+            self.pages.append(self.ops)
+            self.ops = []
+
+    def ensure_space(self, needed: float) -> None:
+        if self.y - needed < self.margin:
+            self.add_page()
+
+    def rect(self, x: float, y: float, width: float, height: float, color: tuple[float, float, float]) -> None:
+        r, g, b = color
+        self.ops.append(f"{r:.3f} {g:.3f} {b:.3f} rg {x:.2f} {y:.2f} {width:.2f} {height:.2f} re f")
+
+    def line(self, x1: float, y1: float, x2: float, y2: float, color: tuple[float, float, float] = (0.87, 0.90, 0.88)) -> None:
+        r, g, b = color
+        self.ops.append(f"{r:.3f} {g:.3f} {b:.3f} RG 0.8 w {x1:.2f} {y1:.2f} m {x2:.2f} {y2:.2f} l S")
+
+    def text(
+        self,
+        x: float,
+        y: float,
+        value: object,
+        size: int = 10,
+        bold: bool = False,
+        color: tuple[float, float, float] = (0.12, 0.14, 0.13),
+    ) -> None:
+        r, g, b = color
+        font = "F2" if bold else "F1"
+        safe_text = pdf_escape(value)
+        self.ops.append(f"BT {r:.3f} {g:.3f} {b:.3f} rg /{font} {size} Tf {x:.2f} {y:.2f} Td ({safe_text}) Tj ET")
+
+    def paragraph(self, value: object, size: int = 10, width_chars: int = 98, bold: bool = False) -> None:
+        for line in textwrap.wrap(str(value), width=width_chars) or [""]:
+            self.ensure_space(size + 8)
+            self.text(self.margin, self.y, line, size=size, bold=bold)
+            self.y -= size + 5
+
+    def heading(self, value: object) -> None:
+        self.ensure_space(32)
+        self.y -= 8
+        self.text(self.margin, self.y, value, size=14, bold=True, color=(0.0, 0.45, 0.45))
+        self.y -= 9
+        self.line(self.margin, self.y, self.width - self.margin, self.y, color=(0.0, 0.55, 0.55))
+        self.y -= 14
+
+    def table(self, headers: list[str], rows: list[list[object]], widths: list[int]) -> None:
+        row_height = 18
+        total_width = sum(widths)
+        self.ensure_space(row_height * 2)
+        self.rect(self.margin, self.y - 4, total_width, row_height, (0.93, 0.96, 0.95))
+        x = self.margin + 4
+        for header, width in zip(headers, widths):
+            self.text(x, self.y, truncate_text(header, max(8, int(width / 5.2))), size=9, bold=True)
+            x += width
+        self.y -= row_height
+        self.line(self.margin, self.y + 4, self.margin + total_width, self.y + 4)
+
+        for row in rows:
+            self.ensure_space(row_height + 4)
+            x = self.margin + 4
+            for value, width in zip(row, widths):
+                self.text(x, self.y, truncate_text(value, max(8, int(width / 5.2))), size=8)
+                x += width
+            self.y -= row_height
+        self.y -= 8
+
+    def build(self) -> bytes:
+        self.finish_pages()
+        objects: list[bytes | None] = [None]
+
+        def reserve() -> int:
+            objects.append(None)
+            return len(objects) - 1
+
+        def set_object(object_id: int, content: str | bytes) -> None:
+            if isinstance(content, str):
+                content = content.encode("latin-1", errors="replace")
+            objects[object_id] = content
+
+        catalog_id = reserve()
+        pages_id = reserve()
+        font_regular_id = reserve()
+        font_bold_id = reserve()
+        set_object(font_regular_id, "<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>")
+        set_object(font_bold_id, "<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>")
+
+        page_ids: list[int] = []
+        for page_ops in self.pages:
+            stream = "\n".join(page_ops).encode("latin-1", errors="replace")
+            content_id = reserve()
+            page_id = reserve()
+            set_object(content_id, b"<< /Length " + str(len(stream)).encode("ascii") + b" >>\nstream\n" + stream + b"\nendstream")
+            set_object(
+                page_id,
+                (
+                    f"<< /Type /Page /Parent {pages_id} 0 R /MediaBox [0 0 {self.width} {self.height}] "
+                    f"/Resources << /Font << /F1 {font_regular_id} 0 R /F2 {font_bold_id} 0 R >> >> "
+                    f"/Contents {content_id} 0 R >>"
+                ),
+            )
+            page_ids.append(page_id)
+
+        kids = " ".join(f"{page_id} 0 R" for page_id in page_ids)
+        set_object(pages_id, f"<< /Type /Pages /Kids [{kids}] /Count {len(page_ids)} >>")
+        set_object(catalog_id, f"<< /Type /Catalog /Pages {pages_id} 0 R >>")
+
+        output = bytearray(b"%PDF-1.4\n")
+        offsets = [0]
+        for object_id, content in enumerate(objects[1:], start=1):
+            offsets.append(len(output))
+            output.extend(f"{object_id} 0 obj\n".encode("ascii"))
+            output.extend(content or b"")
+            output.extend(b"\nendobj\n")
+
+        xref_offset = len(output)
+        output.extend(f"xref\n0 {len(objects)}\n".encode("ascii"))
+        output.extend(b"0000000000 65535 f \n")
+        for offset in offsets[1:]:
+            output.extend(f"{offset:010d} 00000 n \n".encode("ascii"))
+        output.extend(
+            (
+                f"trailer\n<< /Size {len(objects)} /Root {catalog_id} 0 R >>\n"
+                f"startxref\n{xref_offset}\n%%EOF\n"
+            ).encode("ascii")
+        )
+        return bytes(output)
+
+
+def build_pdf_report(df: pd.DataFrame, source_name: str, include_extremes: bool) -> bytes:
+    report = SimplePDFReport()
+    report.rect(0, 0, report.width, report.height, (0.98, 0.99, 0.98))
+    report.text(report.margin, report.y, "MagicBricks Rental Market Dashboard", size=20, bold=True, color=(0.0, 0.45, 0.45))
+    report.y -= 24
+    report.text(report.margin, report.y, f"EDA PDF Report | Source: {source_name}", size=11, bold=True)
+    report.y -= 16
+    report.text(report.margin, report.y, f"Generated: {datetime.now().strftime('%d %b %Y, %I:%M %p')}", size=9, color=(0.38, 0.43, 0.40))
+    report.y -= 20
+    report.rect(report.margin, report.y, report.width - (report.margin * 2), 4, (0.0, 0.55, 0.55))
+    report.y -= 24
+
+    city_prices = df.groupby("City")["Price"].mean().sort_values(ascending=False)
+    best_value_city = df.groupby("City")["Price per sqft"].median().sort_values(ascending=True)
+    most_common_bhk = df["BHK"].mode().iloc[0] if not df["BHK"].mode().empty else np.nan
+    most_common_property = df["Property Type"].mode().iloc[0] if not df["Property Type"].mode().empty else "NA"
+    outlier_text = (
+        "Data-quality outliers included."
+        if include_extremes
+        else f"Hidden outliers: area below {MIN_VALID_AREA_SQFT} sqft or rent above {format_price_per_sqft(MAX_REASONABLE_PRICE_PER_SQFT)}."
+    )
+
+    report.heading("Executive Summary")
+    summary_rows = [
+        ["Listings", format_count(len(df)), "Average rent", format_inr(df["Price"].mean())],
+        ["Median rent", format_inr(df["Price"].median()), "Average area", f"{df['Area'].mean():,.0f} sqft"],
+        ["Costliest city", city_prices.index[0], "Avg rent", format_inr(city_prices.iloc[0])],
+        ["Best value city", best_value_city.index[0], "Median rent/sqft", format_price_per_sqft(best_value_city.iloc[0])],
+        ["Common BHK", f"{int(most_common_bhk)} BHK" if pd.notna(most_common_bhk) else "NA", "Common type", most_common_property],
+    ]
+    report.table(["Metric", "Value", "Metric", "Value"], summary_rows, [112, 140, 112, 140])
+    report.paragraph(outlier_text, size=9)
+
+    report.heading("City Rent Summary")
+    city_summary = (
+        df.groupby("City", as_index=False)
+        .agg(
+            Listings=("City", "size"),
+            Average_Rent=("Price", "mean"),
+            Median_Rent=("Price", "median"),
+            Median_Area=("Area", "median"),
+            Median_Rent_Per_Sqft=("Price per sqft", "median"),
+        )
+        .sort_values("Average_Rent", ascending=False)
+    )
+    report.table(
+        ["City", "Listings", "Avg rent", "Median rent", "Median area", "Median rent/sqft"],
+        [
+            [
+                row.City,
+                format_count(row.Listings),
+                format_inr(row.Average_Rent),
+                format_inr(row.Median_Rent),
+                f"{row.Median_Area:,.0f} sqft",
+                format_price_per_sqft(row.Median_Rent_Per_Sqft),
+            ]
+            for row in city_summary.itertuples(index=False)
+        ],
+        [80, 62, 92, 92, 88, 92],
+    )
+
+    report.heading("Property Mix")
+    mix_rows: list[list[object]] = []
+    bhk_counts = df["BHK"].value_counts().sort_index()
+    furnishing_counts = df["Furnishing"].value_counts()
+    property_counts = df["Property Type"].value_counts()
+    tenant_counts = df["Tenant Preferred"].value_counts()
+    for index in range(max(len(bhk_counts), len(furnishing_counts), len(property_counts), len(tenant_counts), 5)):
+        mix_rows.append(
+            [
+                f"{int(bhk_counts.index[index])} BHK: {format_count(bhk_counts.iloc[index])}" if index < len(bhk_counts) else "",
+                f"{furnishing_counts.index[index]}: {format_count(furnishing_counts.iloc[index])}" if index < len(furnishing_counts) else "",
+                f"{property_counts.index[index]}: {format_count(property_counts.iloc[index])}" if index < len(property_counts) else "",
+                f"{tenant_counts.index[index]}: {format_count(tenant_counts.iloc[index])}" if index < len(tenant_counts) else "",
+            ]
+        )
+    report.table(["BHK", "Furnishing", "Property type", "Tenant preference"], mix_rows[:8], [120, 132, 120, 132])
+
+    report.heading("Top Localities by Average Rent")
+    top_locations = (
+        df.groupby(["City", "Location"], as_index=False)
+        .agg(Average_Rent=("Price", "mean"), Listings=("Location", "size"), Median_Area=("Area", "median"))
+        .sort_values("Average_Rent", ascending=False)
+        .head(10)
+    )
+    report.table(
+        ["City", "Location", "Avg rent", "Listings", "Median area"],
+        [
+            [row.City, row.Location, format_inr(row.Average_Rent), format_count(row.Listings), f"{row.Median_Area:,.0f} sqft"]
+            for row in top_locations.itertuples(index=False)
+        ],
+        [74, 178, 94, 70, 88],
+    )
+
+    report.heading("Most Affordable Localities")
+    affordable_locations = (
+        df.groupby(["City", "Location"], as_index=False)
+        .agg(Average_Rent=("Price", "mean"), Listings=("Location", "size"), Median_Area=("Area", "median"))
+        .sort_values("Average_Rent", ascending=True)
+        .head(10)
+    )
+    report.table(
+        ["City", "Location", "Avg rent", "Listings", "Median area"],
+        [
+            [row.City, row.Location, format_inr(row.Average_Rent), format_count(row.Listings), f"{row.Median_Area:,.0f} sqft"]
+            for row in affordable_locations.itertuples(index=False)
+        ],
+        [74, 178, 94, 70, 88],
+    )
+
+    report.heading("Correlation Notes")
+    corr = df[["Price", "Area", "BHK", "Bathroom", "Price per sqft"]].corr(numeric_only=True)["Price"].drop("Price")
+    corr_rows = [[metric.replace("Price per sqft", "Rent/sqft"), f"{value:.2f}"] for metric, value in corr.sort_values(ascending=False).items()]
+    report.table(["Feature", "Correlation with monthly rent"], corr_rows, [230, 190])
+    report.paragraph("Use the interactive dashboard for full charts, filters, hover details, and exported notebook visuals.", size=9)
+
+    return report.build()
+
+
+def get_dashboard_data() -> tuple[pd.DataFrame, str]:
+    with st.sidebar:
+        st.header("Data")
+        uploaded_csv = st.file_uploader(
+            "Upload a new CSV",
+            type=["csv"],
+            help="Use a MagicBricks-style cleaned CSV with the same columns as the project dataset.",
+        )
+        st.caption(
+            "Required columns: City, BHK, Location, Price, Area, Property Type, Furnishing, Property Facing, Bathroom, Balcony, Tenant Preferred, Availability."
+        )
+
+    if uploaded_csv is not None:
+        return load_uploaded_data(uploaded_csv.getvalue(), uploaded_csv.name), uploaded_csv.name
+
+    return load_data(), DATA_FILE.name
+
+
+def show_pdf_download(df: pd.DataFrame, source_name: str, include_extremes: bool) -> None:
+    pdf_bytes = build_pdf_report(df, source_name, include_extremes)
+    st.download_button(
+        "Download PDF report",
+        data=pdf_bytes,
+        file_name="magicbricks_dashboard_report.pdf",
+        mime="application/pdf",
+    )
 
 
 def show_overview(df: pd.DataFrame) -> None:
