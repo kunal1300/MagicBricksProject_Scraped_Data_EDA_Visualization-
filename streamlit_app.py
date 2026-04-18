@@ -1406,7 +1406,7 @@ def main() -> None:
         st.error(f"Unable to load dashboard data: {exc}")
         st.stop()
 
-    filtered_df, include_extremes = filter_dataframe(df)
+    filtered_df, include_extremes = filter_dataframe(df, DATA_FILE.name)
 
     if filtered_df.empty:
         st.warning("No listings match the selected filters. Adjust the sidebar filters to continue.")
